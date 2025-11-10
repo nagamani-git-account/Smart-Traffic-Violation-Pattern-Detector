@@ -1,43 +1,80 @@
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import hour, dayofweek, month, year, to_timestamp
-from pyspark.sql.functions import count
+from pyspark.sql import functions as F
 
+# ---------- Spark ----------
 spark = SparkSession.builder.appName("Milestone2").getOrCreate()
 spark.sparkContext.setLogLevel("ERROR")
 
+# ---------- Read cleaned data ----------
 df = spark.read.parquet("cleaned_traffic_data.parquet")
-df.show(5)
+df.show(5, truncate=False)
 
-# make sure timestamp column is in correct format
-df = df.withColumn("Timestamp", to_timestamp("Timestamp"))
+# ---------- Derive time features ----------
+df = (
+    df.withColumn("Hour", F.hour("Timestamp"))
+      # Spark's dayofweek: 1=Sun ... 7=Sat
+      .withColumn("DowNum", F.dayofweek("Timestamp"))
+      .withColumn("DayOfWeek", F.date_format("Timestamp", "E"))  # Mon, Tue, ...
+      .withColumn("Month", F.month("Timestamp"))
+      .withColumn("Year", F.year("Timestamp"))
+)
 
-# add new columns
-df = df.withColumn("Hour", hour("Timestamp"))
-df = df.withColumn("DayOfWeek", dayofweek("Timestamp"))
-df = df.withColumn("Month", month("Timestamp"))
-df = df.withColumn("Year", year("Timestamp"))
+df.select("Timestamp", "Hour", "DowNum", "DayOfWeek", "Month", "Year").show(5, truncate=False)
 
-df.show(5)
+# ---------- Aggregations ----------
+# Per hour (sorted 0..23)
+violations_per_hour = (
+    df.groupBy("Hour")
+      .agg(F.count("*").alias("Total_Violations"))
+      .orderBy("Hour")
+)
+violations_per_hour.show(24, truncate=False)
 
+# Per day of week (sorted using DowNum)
+violations_per_day = (
+    df.groupBy("DayOfWeek", "DowNum")
+      .agg(F.count("*").alias("Total_Violations"))
+      .orderBy("DowNum")
+      .drop("DowNum")
+)
+violations_per_day.show(truncate=False)
 
-violations_per_hour = df.groupBy("Hour").agg(count("*").alias("Total_Violations"))
-violations_per_hour.show()
+# By offense type
+violations_by_type = (
+    df.groupBy("Violation_Type")
+      .agg(F.count("*").alias("Total_Violations"))
+      .orderBy(F.desc("Total_Violations"))
+)
+violations_by_type.show(truncate=False)
 
-violations_per_day = df.groupBy("DayOfWeek").agg(count("*").alias("Total_Violations"))
-violations_per_day.show()
+# Cross-tab: Violation type × Hour (pivot 0..23, fill nulls with 0)
+xtab_type_by_hour = (
+    df.groupBy("Violation_Type")
+      .pivot("Hour", list(range(24)))
+      .agg(F.count("*"))
+      .na.fill(0)
+      .orderBy("Violation_Type")
+)
+xtab_type_by_hour.show(truncate=False)
 
-violations_by_type = df.groupBy("Violation_Type").agg(count("*").alias("Total_Violations"))
-violations_by_type.show()
+# By location + Top N
+violations_by_location = (
+    df.groupBy("Location")
+      .agg(F.count("*").alias("Total_Violations"))
+      .orderBy(F.desc("Total_Violations"))
+)
+violations_by_location.show(truncate=False)
 
-violations_by_location = df.groupBy("Location").agg(count("*").alias("Total_Violations"))
-violations_by_location.show()
+TOP_N = 5
+top_locations = violations_by_location.limit(TOP_N)
+top_locations.show(truncate=False)
 
-top_locations = violations_by_location.orderBy("Total_Violations", ascending=False).limit(5)
-top_locations.show()
-
-violations_per_hour.write.mode("overwrite").parquet("violations_per_hour.parquet")
-violations_per_day.write.mode("overwrite").parquet("violations_per_day.parquet")
-violations_by_type.write.mode("overwrite").parquet("violations_by_type.parquet")
-violations_by_location.write.mode("overwrite").parquet("violations_by_location.parquet")
+# ---------- Write outputs (organized) ----------
+violations_per_hour.write.mode("overwrite").parquet("out/agg_by_hour")
+violations_per_day.write.mode("overwrite").parquet("out/agg_by_dow")
+violations_by_type.write.mode("overwrite").parquet("out/agg_by_type")
+xtab_type_by_hour.write.mode("overwrite").parquet("out/xtab_type_by_hour")
+violations_by_location.write.mode("overwrite").parquet("out/agg_by_location")
+top_locations.write.mode("overwrite").parquet("out/top_locations")
 
 spark.stop()

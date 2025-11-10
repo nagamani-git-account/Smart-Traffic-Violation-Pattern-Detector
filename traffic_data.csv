@@ -1,1001 +1,1001 @@
 Violation_ID,Timestamp,Location,Violation_Type,Vehicle_Type,Severity
-V0001,2025-11-04 09:41:07.168065,Intersection_20,Wrong Lane,Truck,2
-V0002,2025-11-03 01:01:07.168065,Intersection_8,No Helmet,Truck,4
-V0003,2025-10-31 18:46:07.168065,Intersection_3,No Helmet,Bus,5
-V0004,2025-11-07 02:30:07.168065,Intersection_11,No Helmet,Truck,3
-V0005,2025-11-05 13:15:07.168065,Intersection_12,Wrong Lane,Car,5
-V0006,2025-11-02 20:19:07.168065,Intersection_16,No Helmet,Bike,2
-V0007,2025-11-01 13:27:07.168065,Intersection_10,Red Light,Truck,1
-V0008,2025-11-02 10:37:07.168065,Intersection_2,No Helmet,Bike,3
-V0009,2025-11-07 07:53:07.168065,Intersection_9,No Helmet,Bike,3
-V0010,2025-11-07 04:27:07.168065,Intersection_6,Red Light,Bus,2
-V0011,2025-11-04 05:20:07.168065,Intersection_14,Speeding,Bike,2
-V0012,2025-11-06 13:31:07.168065,Intersection_20,No Helmet,Bike,5
-V0013,2025-11-05 16:04:07.168065,Intersection_13,Red Light,Car,2
-V0014,2025-11-02 12:45:07.168065,Intersection_15,Wrong Lane,Truck,1
-V0015,2025-11-05 17:52:07.168065,Intersection_11,Red Light,Truck,2
-V0016,2025-11-01 12:40:07.168065,Intersection_15,No Helmet,Bike,2
-V0017,2025-11-03 20:31:07.168065,Intersection_3,Red Light,Bike,5
-V0018,2025-11-03 11:07:07.168065,Intersection_4,Speeding,Bike,2
-V0019,2025-11-06 01:25:07.168065,Intersection_14,Red Light,Car,4
-V0020,2025-11-02 16:00:07.168065,Intersection_16,No Helmet,Bike,1
-V0021,2025-11-05 13:02:07.168065,Intersection_17,Red Light,Bike,5
-V0022,2025-10-31 22:03:07.168065,Intersection_6,Red Light,Truck,3
-V0023,2025-11-04 03:39:07.168065,Intersection_2,No Helmet,Bike,3
-V0024,2025-11-02 23:25:07.168065,Intersection_12,Red Light,Bus,4
-V0025,2025-11-03 01:08:07.168065,Intersection_19,Red Light,Bus,3
-V0026,2025-11-06 16:23:07.168065,Intersection_4,No Helmet,Car,5
-V0027,2025-11-04 12:15:07.168065,Intersection_3,Wrong Lane,Bike,3
-V0028,2025-11-02 07:49:07.168065,Intersection_19,No Helmet,Bus,5
-V0029,2025-10-31 22:46:07.168065,Intersection_4,No Helmet,Bike,5
-V0030,2025-11-01 22:20:07.168065,Intersection_14,No Helmet,Bike,3
-V0031,2025-11-07 02:04:07.168065,Intersection_12,Red Light,Truck,3
-V0032,2025-11-04 21:43:07.168065,Intersection_16,Wrong Lane,Bus,5
-V0033,2025-11-01 15:09:07.168065,Intersection_18,Speeding,Car,3
-V0034,2025-10-31 22:53:07.168065,Intersection_14,No Helmet,Bus,2
-V0035,2025-11-05 10:52:07.168065,Intersection_18,Wrong Lane,Bike,2
-V0036,2025-11-02 02:06:07.168065,Intersection_7,Speeding,Bike,3
-V0037,2025-11-02 23:33:07.168065,Intersection_4,Wrong Lane,Car,2
-V0038,2025-11-01 04:03:07.168065,Intersection_7,Red Light,Bus,1
-V0039,2025-11-04 18:17:07.168065,Intersection_20,Speeding,Car,3
-V0040,2025-11-02 22:03:07.168065,Intersection_4,Wrong Lane,Truck,1
-V0041,2025-10-31 22:46:07.168065,Intersection_4,Speeding,Truck,2
-V0042,2025-11-07 09:09:07.168065,Intersection_18,No Helmet,Truck,1
-V0043,2025-11-03 23:44:07.168065,Intersection_9,No Helmet,Bus,4
-V0044,2025-11-06 05:47:07.168065,Intersection_3,Red Light,Truck,1
-V0045,2025-11-05 16:29:07.168065,Intersection_19,No Helmet,Car,3
-V0046,2025-11-04 09:44:07.168065,Intersection_4,Red Light,Bus,4
-V0047,2025-11-03 05:43:07.168065,Intersection_2,Speeding,Bus,1
-V0048,2025-11-03 20:58:07.168065,Intersection_7,Speeding,Bus,3
-V0049,2025-11-05 06:34:07.168065,Intersection_8,Speeding,Bike,1
-V0050,2025-11-01 08:48:07.168065,Intersection_20,Wrong Lane,Bus,3
-V0051,2025-11-03 18:20:07.168065,Intersection_19,Red Light,Bus,3
-V0052,2025-11-03 04:39:07.168065,Intersection_20,Wrong Lane,Bike,2
-V0053,2025-11-04 16:54:07.168065,Intersection_17,Wrong Lane,Bike,3
-V0054,2025-11-03 18:54:07.168065,Intersection_10,Red Light,Truck,4
-V0055,2025-11-01 03:35:07.168065,Intersection_17,Red Light,Car,3
-V0056,2025-10-31 17:51:07.168065,Intersection_13,Speeding,Truck,1
-V0057,2025-11-06 16:57:07.168065,Intersection_11,Speeding,Truck,4
-V0058,2025-11-03 09:37:07.168065,Intersection_19,Speeding,Truck,3
-V0059,2025-11-04 19:05:07.168065,Intersection_6,No Helmet,Car,3
-V0060,2025-11-07 00:56:07.168065,Intersection_14,Wrong Lane,Bike,3
-V0061,2025-11-05 04:31:07.168065,Intersection_13,Red Light,Bike,3
-V0062,2025-11-05 03:06:07.168065,Intersection_1,Red Light,Bus,4
-V0063,2025-11-06 22:13:07.168065,Intersection_17,Speeding,Bike,3
-V0064,2025-11-06 16:12:07.168065,Intersection_4,Red Light,Truck,5
-V0065,2025-11-02 04:20:07.168065,Intersection_10,No Helmet,Bus,4
-V0066,2025-11-03 13:13:07.168065,Intersection_16,Red Light,Car,4
-V0067,2025-11-07 12:03:07.168065,Intersection_17,No Helmet,Bike,5
-V0068,2025-11-06 07:17:07.168065,Intersection_10,Red Light,Car,2
-V0069,2025-11-03 21:15:07.168065,Intersection_19,Wrong Lane,Bike,4
-V0070,2025-11-07 01:04:07.168065,Intersection_1,Speeding,Bike,2
-V0071,2025-11-01 22:49:07.168065,Intersection_18,Red Light,Car,1
-V0072,2025-11-01 08:53:07.168065,Intersection_11,Wrong Lane,Truck,3
-V0073,2025-10-31 19:57:07.168065,Intersection_1,No Helmet,Truck,2
-V0074,2025-11-02 04:45:07.168065,Intersection_18,Red Light,Bus,4
-V0075,2025-11-07 06:51:07.168065,Intersection_12,Red Light,Bike,4
-V0076,2025-11-04 13:20:07.168065,Intersection_2,Speeding,Car,1
-V0077,2025-11-01 23:52:07.168065,Intersection_6,Wrong Lane,Car,2
-V0078,2025-11-03 20:51:07.168065,Intersection_11,Wrong Lane,Truck,5
-V0079,2025-11-05 07:29:07.168065,Intersection_18,Red Light,Truck,5
-V0080,2025-11-01 01:43:07.168065,Intersection_4,Wrong Lane,Bike,2
-V0081,2025-11-05 19:40:07.168065,Intersection_19,Wrong Lane,Bus,4
-V0082,2025-11-05 19:42:07.168065,Intersection_14,Speeding,Car,1
-V0083,2025-11-02 21:30:07.168065,Intersection_17,Speeding,Car,2
-V0084,2025-11-05 06:43:07.168065,Intersection_18,No Helmet,Bike,2
-V0085,2025-11-05 14:49:07.168065,Intersection_8,Speeding,Car,2
-V0086,2025-11-03 04:14:07.168065,Intersection_7,Wrong Lane,Truck,1
-V0087,2025-11-02 08:51:07.168065,Intersection_6,No Helmet,Car,5
-V0088,2025-11-07 05:51:07.168065,Intersection_5,Wrong Lane,Car,2
-V0089,2025-11-05 21:33:07.168065,Intersection_7,No Helmet,Bus,1
-V0090,2025-11-06 00:24:07.168065,Intersection_16,Speeding,Bike,5
-V0091,2025-11-03 05:05:07.168065,Intersection_7,Speeding,Truck,4
-V0092,2025-11-07 00:23:07.168065,Intersection_11,No Helmet,Truck,2
-V0093,2025-11-03 05:36:07.168065,Intersection_7,Speeding,Truck,2
-V0094,2025-11-04 15:18:07.168065,Intersection_7,No Helmet,Bike,5
-V0095,2025-10-31 18:26:07.168065,Intersection_8,Speeding,Bus,3
-V0096,2025-11-07 10:33:07.168065,Intersection_17,No Helmet,Bike,3
-V0097,2025-11-06 15:42:07.168065,Intersection_16,No Helmet,Bike,5
-V0098,2025-11-03 23:31:07.168065,Intersection_9,No Helmet,Car,2
-V0099,2025-11-06 21:26:07.168065,Intersection_16,No Helmet,Bike,1
-V0100,2025-11-06 05:48:07.168065,Intersection_16,Wrong Lane,Truck,4
-V0101,2025-11-07 08:05:07.168065,Intersection_19,Speeding,Bus,2
-V0102,2025-10-31 23:38:07.168065,Intersection_4,No Helmet,Truck,2
-V0103,2025-11-01 15:21:07.168065,Intersection_12,Speeding,Car,4
-V0104,2025-11-01 01:49:07.168065,Intersection_20,No Helmet,Truck,4
-V0105,2025-11-06 05:55:07.168065,Intersection_12,No Helmet,Bike,5
-V0106,2025-11-04 06:44:07.168065,Intersection_16,Wrong Lane,Bus,1
-V0107,2025-11-04 11:05:07.168065,Intersection_19,Speeding,Truck,4
-V0108,2025-11-06 17:28:07.168065,Intersection_10,No Helmet,Bus,5
-V0109,2025-11-01 13:46:07.168065,Intersection_2,No Helmet,Truck,5
-V0110,2025-11-05 14:13:07.168065,Intersection_15,Speeding,Car,3
-V0111,2025-11-05 14:08:07.168065,Intersection_5,Speeding,Car,5
-V0112,2025-11-06 09:17:07.168065,Intersection_13,No Helmet,Truck,3
-V0113,2025-11-03 15:51:07.168065,Intersection_7,Red Light,Bus,2
-V0114,2025-11-04 14:18:07.168065,Intersection_20,Wrong Lane,Bus,1
-V0115,2025-11-03 09:06:07.168065,Intersection_11,Red Light,Bus,2
-V0116,2025-11-03 17:03:07.168065,Intersection_13,Speeding,Bus,1
-V0117,2025-11-01 18:37:07.168065,Intersection_18,Red Light,Bus,1
-V0118,2025-11-05 23:09:07.168065,Intersection_17,No Helmet,Bus,2
-V0119,2025-11-06 15:34:07.168065,Intersection_7,Wrong Lane,Bus,4
-V0120,2025-11-03 06:33:07.168065,Intersection_19,Red Light,Truck,3
-V0121,2025-11-05 21:01:07.168065,Intersection_17,Speeding,Car,3
-V0122,2025-11-06 03:18:07.168065,Intersection_20,Wrong Lane,Car,5
-V0123,2025-11-01 08:35:07.168065,Intersection_12,No Helmet,Bike,1
-V0124,2025-11-06 13:51:07.168065,Intersection_6,No Helmet,Bike,4
-V0125,2025-11-05 09:35:07.168065,Intersection_7,Red Light,Bus,2
-V0126,2025-11-01 13:26:07.168065,Intersection_20,Wrong Lane,Car,3
-V0127,2025-11-04 02:31:07.168065,Intersection_15,Wrong Lane,Car,4
-V0128,2025-11-06 15:41:07.168065,Intersection_16,No Helmet,Truck,4
-V0129,2025-11-01 00:22:07.168065,Intersection_1,Wrong Lane,Bus,1
-V0130,2025-11-02 13:58:07.168065,Intersection_20,No Helmet,Truck,2
-V0131,2025-11-06 03:24:07.168065,Intersection_1,Wrong Lane,Truck,4
-V0132,2025-11-06 17:44:07.168065,Intersection_1,Red Light,Truck,5
-V0133,2025-11-01 17:46:07.168065,Intersection_20,Wrong Lane,Bike,2
-V0134,2025-11-04 05:00:07.168065,Intersection_1,Wrong Lane,Car,2
-V0135,2025-11-01 14:18:07.168065,Intersection_20,Speeding,Car,4
-V0136,2025-11-02 21:50:07.168065,Intersection_12,Speeding,Bus,2
-V0137,2025-11-02 16:52:07.168065,Intersection_3,Speeding,Car,4
-V0138,2025-11-05 21:16:07.168065,Intersection_6,Red Light,Car,4
-V0139,2025-11-03 03:54:07.168065,Intersection_1,Red Light,Truck,2
-V0140,2025-11-06 21:19:07.168065,Intersection_10,Wrong Lane,Car,2
-V0141,2025-11-03 01:20:07.168065,Intersection_8,No Helmet,Bike,5
-V0142,2025-11-02 06:35:07.168065,Intersection_4,Speeding,Car,2
-V0143,2025-11-02 20:50:07.168065,Intersection_14,No Helmet,Bike,2
-V0144,2025-11-02 12:21:07.168065,Intersection_19,Wrong Lane,Bike,1
-V0145,2025-11-02 17:51:07.168065,Intersection_3,No Helmet,Truck,1
-V0146,2025-11-04 09:18:07.168065,Intersection_1,No Helmet,Truck,4
-V0147,2025-11-03 05:50:07.168065,Intersection_17,Speeding,Car,1
-V0148,2025-11-05 09:24:07.168065,Intersection_15,Speeding,Car,2
-V0149,2025-11-06 21:35:07.168065,Intersection_7,Red Light,Bike,2
-V0150,2025-11-02 18:44:07.168065,Intersection_8,Red Light,Truck,3
-V0151,2025-11-01 23:38:07.168065,Intersection_8,Red Light,Bike,4
-V0152,2025-11-04 14:14:07.168065,Intersection_3,No Helmet,Car,5
-V0153,2025-11-02 19:10:07.168065,Intersection_2,Red Light,Bus,4
-V0154,2025-11-02 23:04:07.168065,Intersection_3,Speeding,Bus,3
-V0155,2025-11-05 09:48:07.168065,Intersection_19,Speeding,Car,4
-V0156,2025-11-04 04:43:07.168065,Intersection_5,Speeding,Bike,1
-V0157,2025-11-04 02:26:07.168065,Intersection_8,Red Light,Truck,1
-V0158,2025-10-31 23:15:07.168065,Intersection_14,Wrong Lane,Truck,3
-V0159,2025-11-04 10:22:07.168065,Intersection_8,Red Light,Car,5
-V0160,2025-11-06 14:36:07.168065,Intersection_14,Speeding,Bus,3
-V0161,2025-11-04 05:56:07.168065,Intersection_13,Red Light,Bike,3
-V0162,2025-11-02 09:08:07.168065,Intersection_17,Red Light,Car,2
-V0163,2025-11-04 15:07:07.168065,Intersection_6,No Helmet,Bus,5
-V0164,2025-11-03 18:04:07.168065,Intersection_19,No Helmet,Bike,5
-V0165,2025-11-07 01:05:07.168065,Intersection_10,Speeding,Truck,4
-V0166,2025-11-03 14:16:07.168065,Intersection_12,Speeding,Bus,4
-V0167,2025-11-04 12:59:07.168065,Intersection_12,Speeding,Truck,2
-V0168,2025-11-01 21:04:07.168065,Intersection_2,Wrong Lane,Bike,5
-V0169,2025-11-05 15:17:07.168065,Intersection_19,No Helmet,Car,4
-V0170,2025-11-01 20:30:07.168065,Intersection_20,No Helmet,Bike,4
-V0171,2025-11-01 18:35:07.168065,Intersection_18,No Helmet,Car,5
-V0172,2025-11-03 01:47:07.168065,Intersection_14,No Helmet,Car,5
-V0173,2025-11-05 16:53:07.168065,Intersection_19,Speeding,Truck,2
-V0174,2025-11-02 18:10:07.168065,Intersection_15,Speeding,Bike,5
-V0175,2025-11-07 04:48:07.168065,Intersection_20,Red Light,Car,5
-V0176,2025-11-06 01:33:07.168065,Intersection_16,Wrong Lane,Car,3
-V0177,2025-11-05 09:58:07.168065,Intersection_4,Wrong Lane,Bike,1
-V0178,2025-11-04 20:42:07.168065,Intersection_3,Red Light,Bus,4
-V0179,2025-11-05 10:47:07.168065,Intersection_11,Speeding,Car,1
-V0180,2025-11-03 08:02:07.168065,Intersection_17,Wrong Lane,Truck,5
-V0181,2025-11-01 03:26:07.168065,Intersection_18,No Helmet,Bike,2
-V0182,2025-11-06 18:28:07.168065,Intersection_14,Red Light,Bus,3
-V0183,2025-11-03 05:51:07.168065,Intersection_14,No Helmet,Truck,5
-V0184,2025-11-03 00:02:07.168065,Intersection_20,No Helmet,Truck,1
-V0185,2025-11-03 07:09:07.168065,Intersection_14,Wrong Lane,Car,2
-V0186,2025-11-04 18:06:07.168065,Intersection_2,Speeding,Car,2
-V0187,2025-10-31 15:53:07.168065,Intersection_20,Red Light,Bus,2
-V0188,2025-11-05 02:35:07.168065,Intersection_18,Wrong Lane,Car,4
-V0189,2025-11-05 13:25:07.168065,Intersection_13,Wrong Lane,Bike,3
-V0190,2025-11-06 21:02:07.168065,Intersection_2,Wrong Lane,Car,3
-V0191,2025-11-05 02:18:07.168065,Intersection_2,Red Light,Bus,2
-V0192,2025-11-03 03:41:07.168065,Intersection_9,Speeding,Truck,1
-V0193,2025-11-07 07:26:07.168065,Intersection_18,Red Light,Car,3
-V0194,2025-10-31 20:03:07.168065,Intersection_6,Speeding,Bike,1
-V0195,2025-11-07 10:28:07.168065,Intersection_1,Wrong Lane,Car,3
-V0196,2025-11-01 08:07:07.168065,Intersection_5,Red Light,Bike,2
-V0197,2025-10-31 20:51:07.168065,Intersection_10,No Helmet,Truck,3
-V0198,2025-11-04 16:58:07.168065,Intersection_8,Wrong Lane,Bus,3
-V0199,2025-11-01 20:54:07.168065,Intersection_16,Wrong Lane,Car,4
-V0200,2025-11-06 09:40:07.168065,Intersection_4,Speeding,Bike,4
-V0201,2025-11-05 22:18:07.168065,Intersection_3,Speeding,Truck,4
-V0202,2025-11-06 15:48:07.168065,Intersection_1,No Helmet,Bike,3
-V0203,2025-11-07 10:13:07.168065,Intersection_16,Wrong Lane,Bike,3
-V0204,2025-11-05 22:30:07.168065,Intersection_20,Wrong Lane,Bike,5
-V0205,2025-11-05 21:26:07.168065,Intersection_8,Speeding,Truck,1
-V0206,2025-11-06 11:13:07.168065,Intersection_11,Red Light,Car,2
-V0207,2025-11-07 01:34:07.168065,Intersection_6,Wrong Lane,Truck,2
-V0208,2025-11-04 06:07:07.168065,Intersection_15,Speeding,Car,2
-V0209,2025-11-06 01:55:07.168065,Intersection_11,No Helmet,Bike,5
-V0210,2025-11-05 23:53:07.168065,Intersection_1,Red Light,Bus,3
-V0211,2025-11-07 09:22:07.168065,Intersection_20,No Helmet,Bus,3
-V0212,2025-11-03 14:52:07.168065,Intersection_5,No Helmet,Car,4
-V0213,2025-10-31 22:41:07.168065,Intersection_8,Wrong Lane,Bike,1
-V0214,2025-11-03 20:52:07.168065,Intersection_4,No Helmet,Car,5
-V0215,2025-11-01 18:43:07.168065,Intersection_4,No Helmet,Bus,1
-V0216,2025-11-02 03:59:07.168065,Intersection_18,Red Light,Bike,5
-V0217,2025-11-06 23:05:07.168065,Intersection_3,No Helmet,Car,1
-V0218,2025-11-02 22:48:07.168065,Intersection_20,Red Light,Bus,4
-V0219,2025-11-02 03:42:07.168065,Intersection_2,No Helmet,Truck,5
-V0220,2025-11-02 23:25:07.168065,Intersection_19,Speeding,Bike,5
-V0221,2025-11-02 00:54:07.168065,Intersection_5,Wrong Lane,Truck,2
-V0222,2025-11-03 18:09:07.168065,Intersection_6,Speeding,Car,2
-V0223,2025-11-02 13:15:07.168065,Intersection_1,Speeding,Car,3
-V0224,2025-11-02 08:35:07.168065,Intersection_16,Speeding,Bike,2
-V0225,2025-11-07 08:06:07.168065,Intersection_10,No Helmet,Bike,3
-V0226,2025-11-03 12:02:07.168065,Intersection_9,No Helmet,Car,4
-V0227,2025-11-06 09:51:07.169064,Intersection_7,Speeding,Bike,2
-V0228,2025-11-04 22:53:07.169064,Intersection_20,No Helmet,Bike,4
-V0229,2025-11-04 08:27:07.169064,Intersection_13,Red Light,Bus,1
-V0230,2025-11-01 19:33:07.169064,Intersection_14,Wrong Lane,Bike,3
-V0231,2025-11-06 03:41:07.169064,Intersection_14,No Helmet,Bus,3
-V0232,2025-11-07 11:43:07.169064,Intersection_16,Speeding,Car,2
-V0233,2025-11-03 02:31:07.169064,Intersection_6,Red Light,Car,1
-V0234,2025-11-07 13:35:07.169064,Intersection_17,Wrong Lane,Car,2
-V0235,2025-11-03 06:00:07.169064,Intersection_9,Wrong Lane,Bike,2
-V0236,2025-11-06 07:36:07.169064,Intersection_20,Red Light,Truck,4
-V0237,2025-11-06 22:06:07.169064,Intersection_1,No Helmet,Car,1
-V0238,2025-11-03 20:08:07.169064,Intersection_8,No Helmet,Bus,4
-V0239,2025-11-05 00:09:07.169064,Intersection_1,Wrong Lane,Truck,3
-V0240,2025-11-05 08:02:07.169064,Intersection_16,Red Light,Bike,1
-V0241,2025-11-06 18:23:07.169064,Intersection_6,Wrong Lane,Bus,1
-V0242,2025-11-04 00:42:07.169064,Intersection_11,No Helmet,Truck,1
-V0243,2025-11-03 05:50:07.169064,Intersection_17,Wrong Lane,Bus,3
-V0244,2025-11-02 18:18:07.169064,Intersection_14,Red Light,Bike,4
-V0245,2025-11-07 07:00:07.169064,Intersection_14,Red Light,Car,4
-V0246,2025-11-04 18:06:07.169064,Intersection_5,Red Light,Truck,3
-V0247,2025-11-04 02:54:07.169064,Intersection_18,Speeding,Car,1
-V0248,2025-11-07 14:07:07.169064,Intersection_2,Wrong Lane,Bus,3
-V0249,2025-11-04 21:17:07.169064,Intersection_3,Speeding,Bus,1
-V0250,2025-10-31 18:40:07.169064,Intersection_8,Wrong Lane,Car,4
-V0251,2025-11-01 02:46:07.169064,Intersection_15,Red Light,Car,4
-V0252,2025-11-03 02:23:07.169064,Intersection_1,Speeding,Bike,5
-V0253,2025-11-04 02:19:07.169064,Intersection_18,Speeding,Car,1
-V0254,2025-11-02 10:19:07.169064,Intersection_20,Red Light,Truck,4
-V0255,2025-11-04 07:59:07.169064,Intersection_20,No Helmet,Bus,1
-V0256,2025-11-06 07:30:07.169064,Intersection_16,Wrong Lane,Car,3
-V0257,2025-11-03 18:30:07.169064,Intersection_8,Red Light,Truck,3
-V0258,2025-11-06 18:30:07.169064,Intersection_1,Wrong Lane,Bus,3
-V0259,2025-11-05 16:07:07.169064,Intersection_17,No Helmet,Bike,3
-V0260,2025-11-06 11:18:07.169064,Intersection_1,Red Light,Bike,4
-V0261,2025-11-03 02:13:07.169064,Intersection_2,Speeding,Bus,3
-V0262,2025-10-31 16:51:07.169064,Intersection_12,No Helmet,Bike,1
-V0263,2025-11-06 13:06:07.169064,Intersection_7,Red Light,Bike,5
-V0264,2025-11-04 21:46:07.169064,Intersection_20,No Helmet,Car,2
-V0265,2025-11-03 15:40:07.169064,Intersection_18,Speeding,Truck,3
-V0266,2025-11-04 23:56:07.169064,Intersection_10,Speeding,Bus,3
-V0267,2025-11-01 23:37:07.169064,Intersection_5,Speeding,Bike,4
-V0268,2025-10-31 19:34:07.169064,Intersection_19,Speeding,Bike,5
-V0269,2025-11-01 06:50:07.169064,Intersection_2,Red Light,Bus,4
-V0270,2025-10-31 22:55:07.169064,Intersection_5,Speeding,Bus,1
-V0271,2025-11-06 23:00:07.169064,Intersection_5,Speeding,Truck,2
-V0272,2025-11-01 06:00:07.169064,Intersection_5,Speeding,Truck,4
-V0273,2025-11-06 14:31:07.169064,Intersection_14,Speeding,Car,4
-V0274,2025-11-01 20:41:07.169064,Intersection_3,Red Light,Car,2
-V0275,2025-11-03 20:44:07.169064,Intersection_6,No Helmet,Bus,2
-V0276,2025-11-02 14:40:07.169064,Intersection_17,Red Light,Car,1
-V0277,2025-11-02 18:32:07.169064,Intersection_16,Red Light,Car,5
-V0278,2025-11-04 21:06:07.169064,Intersection_7,Wrong Lane,Car,5
-V0279,2025-11-04 19:04:07.169064,Intersection_14,Red Light,Car,4
-V0280,2025-11-01 13:38:07.169064,Intersection_3,Red Light,Truck,4
-V0281,2025-11-04 08:34:07.169064,Intersection_14,No Helmet,Car,3
-V0282,2025-11-02 05:05:07.169064,Intersection_16,Wrong Lane,Bike,2
-V0283,2025-11-02 00:04:07.169064,Intersection_3,Red Light,Car,3
-V0284,2025-11-02 17:35:07.169064,Intersection_7,No Helmet,Truck,2
-V0285,2025-11-01 23:40:07.169064,Intersection_5,Wrong Lane,Truck,2
-V0286,2025-11-03 17:33:07.169064,Intersection_19,Speeding,Bike,2
-V0287,2025-11-03 11:33:07.169064,Intersection_10,Speeding,Bike,4
-V0288,2025-11-06 15:41:07.169064,Intersection_4,Speeding,Car,2
-V0289,2025-11-05 10:56:07.169064,Intersection_5,Red Light,Truck,5
-V0290,2025-11-04 14:13:07.169064,Intersection_14,Wrong Lane,Bike,4
-V0291,2025-10-31 23:28:07.169064,Intersection_19,Speeding,Car,5
-V0292,2025-11-05 18:50:07.169064,Intersection_20,Speeding,Bike,3
-V0293,2025-11-05 11:44:07.169064,Intersection_14,Red Light,Truck,2
-V0294,2025-11-01 20:08:07.169064,Intersection_11,No Helmet,Bike,3
-V0295,2025-11-05 12:48:07.169064,Intersection_6,Wrong Lane,Truck,5
-V0296,2025-11-03 13:14:07.169064,Intersection_6,No Helmet,Bus,5
-V0297,2025-11-05 22:03:07.169064,Intersection_12,Speeding,Truck,3
-V0298,2025-11-05 00:51:07.169064,Intersection_19,No Helmet,Bus,1
-V0299,2025-11-02 21:59:07.169064,Intersection_4,Speeding,Car,3
-V0300,2025-11-02 03:25:07.169064,Intersection_15,Wrong Lane,Bike,4
-V0301,2025-11-04 23:48:07.169064,Intersection_19,No Helmet,Truck,5
-V0302,2025-11-06 14:05:07.169064,Intersection_16,No Helmet,Bike,4
-V0303,2025-11-01 11:48:07.169064,Intersection_11,Speeding,Car,3
-V0304,2025-11-01 14:41:07.169064,Intersection_17,Wrong Lane,Truck,2
-V0305,2025-10-31 17:25:07.169064,Intersection_16,Red Light,Car,5
-V0306,2025-11-04 18:36:07.169064,Intersection_19,Red Light,Car,2
-V0307,2025-11-06 21:48:07.169064,Intersection_14,Speeding,Car,1
-V0308,2025-11-06 23:13:07.169064,Intersection_10,Wrong Lane,Truck,5
-V0309,2025-11-02 10:56:07.169064,Intersection_3,Speeding,Car,2
-V0310,2025-11-04 05:10:07.169064,Intersection_12,Red Light,Car,1
-V0311,2025-10-31 15:44:07.169064,Intersection_7,Wrong Lane,Bike,4
-V0312,2025-11-03 16:41:07.169064,Intersection_10,No Helmet,Car,3
-V0313,2025-11-02 05:21:07.169064,Intersection_11,Wrong Lane,Truck,2
-V0314,2025-11-01 16:09:07.169064,Intersection_12,No Helmet,Bike,5
-V0315,2025-11-03 04:18:07.169064,Intersection_20,Red Light,Bike,3
-V0316,2025-11-03 11:48:07.169064,Intersection_9,Speeding,Truck,4
-V0317,2025-11-06 08:20:07.169064,Intersection_13,Red Light,Bus,4
-V0318,2025-11-04 19:05:07.169064,Intersection_6,No Helmet,Bus,1
-V0319,2025-11-03 04:37:07.169064,Intersection_11,Wrong Lane,Truck,5
-V0320,2025-11-03 01:04:07.169064,Intersection_16,Speeding,Truck,3
-V0321,2025-11-01 02:45:07.169064,Intersection_4,Red Light,Bus,5
-V0322,2025-11-07 02:28:07.169064,Intersection_4,Wrong Lane,Car,2
-V0323,2025-11-01 08:58:07.169064,Intersection_11,Red Light,Bike,5
-V0324,2025-11-05 02:08:07.169064,Intersection_15,Wrong Lane,Car,2
-V0325,2025-11-03 19:37:07.169064,Intersection_10,Red Light,Car,3
-V0326,2025-11-03 20:18:07.169064,Intersection_12,Red Light,Bike,2
-V0327,2025-11-07 12:09:07.169064,Intersection_19,Speeding,Bus,3
-V0328,2025-11-07 10:26:07.169064,Intersection_3,No Helmet,Bus,3
-V0329,2025-11-02 21:00:07.169064,Intersection_11,Wrong Lane,Truck,1
-V0330,2025-11-01 07:44:07.169064,Intersection_16,Speeding,Car,5
-V0331,2025-11-05 06:26:07.169064,Intersection_18,No Helmet,Bike,4
-V0332,2025-11-04 12:19:07.169064,Intersection_19,No Helmet,Bike,5
-V0333,2025-11-07 04:39:07.169064,Intersection_12,Red Light,Bus,4
-V0334,2025-11-03 09:05:07.169064,Intersection_18,Wrong Lane,Car,3
-V0335,2025-11-05 17:25:07.169064,Intersection_17,Speeding,Truck,5
-V0336,2025-11-06 20:56:07.169064,Intersection_20,Wrong Lane,Car,2
-V0337,2025-11-05 06:03:07.169064,Intersection_16,No Helmet,Car,2
-V0338,2025-11-06 02:04:07.169064,Intersection_11,Red Light,Bus,2
-V0339,2025-11-06 08:53:07.169064,Intersection_17,Red Light,Bus,2
-V0340,2025-11-03 16:02:07.169064,Intersection_2,Red Light,Bike,2
-V0341,2025-11-01 22:45:07.169064,Intersection_13,Wrong Lane,Truck,3
-V0342,2025-11-04 23:28:07.169064,Intersection_12,Red Light,Bike,1
-V0343,2025-11-02 02:32:07.169064,Intersection_10,Red Light,Bike,2
-V0344,2025-11-05 02:40:07.169064,Intersection_5,Wrong Lane,Bike,4
-V0345,2025-11-04 06:11:07.169064,Intersection_4,Red Light,Bus,1
-V0346,2025-11-07 04:17:07.169064,Intersection_7,Wrong Lane,Truck,3
-V0347,2025-11-04 13:05:07.169064,Intersection_7,Red Light,Car,4
-V0348,2025-11-06 02:18:07.169064,Intersection_7,Red Light,Car,3
-V0349,2025-11-03 14:32:07.169064,Intersection_13,Wrong Lane,Truck,3
-V0350,2025-11-03 07:42:07.169064,Intersection_9,Wrong Lane,Bike,5
-V0351,2025-11-05 02:28:07.169064,Intersection_3,Speeding,Bus,2
-V0352,2025-11-01 13:46:07.169064,Intersection_6,Speeding,Bus,5
-V0353,2025-10-31 21:45:07.169064,Intersection_3,No Helmet,Bike,1
-V0354,2025-11-05 12:26:07.169064,Intersection_10,Speeding,Bike,1
-V0355,2025-11-05 07:07:07.169064,Intersection_18,No Helmet,Bus,2
-V0356,2025-11-05 02:07:07.169064,Intersection_2,Wrong Lane,Truck,3
-V0357,2025-11-07 06:21:07.169064,Intersection_1,Wrong Lane,Car,5
-V0358,2025-11-02 06:23:07.169064,Intersection_9,Speeding,Bike,5
-V0359,2025-11-03 21:02:07.169064,Intersection_13,Wrong Lane,Car,4
-V0360,2025-11-05 08:22:07.169064,Intersection_12,Speeding,Bike,4
-V0361,2025-11-02 02:54:07.169064,Intersection_13,Wrong Lane,Car,5
-V0362,2025-11-01 01:02:07.169064,Intersection_18,Red Light,Bike,2
-V0363,2025-11-07 03:38:07.169064,Intersection_15,Wrong Lane,Car,2
-V0364,2025-11-05 16:06:07.169064,Intersection_10,Red Light,Bike,3
-V0365,2025-11-06 09:54:07.169064,Intersection_15,Wrong Lane,Truck,3
-V0366,2025-11-07 04:33:07.169064,Intersection_17,No Helmet,Bus,4
-V0367,2025-11-03 14:28:07.169064,Intersection_10,Speeding,Bus,1
-V0368,2025-11-02 05:37:07.169064,Intersection_10,No Helmet,Bike,5
-V0369,2025-11-03 21:44:07.169064,Intersection_9,Speeding,Truck,5
-V0370,2025-11-03 09:02:07.169064,Intersection_10,Red Light,Bus,1
-V0371,2025-11-07 12:06:07.169064,Intersection_6,No Helmet,Truck,3
-V0372,2025-11-05 17:45:07.169064,Intersection_18,No Helmet,Car,3
-V0373,2025-11-07 09:32:07.169064,Intersection_10,No Helmet,Bus,3
-V0374,2025-11-02 12:46:07.169064,Intersection_5,Speeding,Truck,5
-V0375,2025-11-03 18:03:07.169064,Intersection_5,Wrong Lane,Bike,1
-V0376,2025-11-03 14:29:07.169064,Intersection_12,Speeding,Truck,4
-V0377,2025-11-02 23:21:07.169064,Intersection_17,Red Light,Bike,5
-V0378,2025-11-04 11:36:07.169064,Intersection_7,Wrong Lane,Truck,2
-V0379,2025-11-06 14:37:07.169064,Intersection_19,Speeding,Bus,5
-V0380,2025-11-03 11:07:07.169064,Intersection_19,Red Light,Bus,5
-V0381,2025-11-01 15:22:07.169064,Intersection_7,Red Light,Bus,4
-V0382,2025-11-06 11:13:07.169064,Intersection_3,Wrong Lane,Car,4
-V0383,2025-11-03 18:47:07.169064,Intersection_3,No Helmet,Car,5
-V0384,2025-11-06 06:43:07.169064,Intersection_18,Speeding,Bus,1
-V0385,2025-11-03 00:24:07.169064,Intersection_5,Red Light,Truck,4
-V0386,2025-11-01 00:06:07.169064,Intersection_1,No Helmet,Car,4
-V0387,2025-11-06 04:35:07.169064,Intersection_11,No Helmet,Car,3
-V0388,2025-11-04 06:30:07.169064,Intersection_8,No Helmet,Truck,5
-V0389,2025-11-05 12:18:07.169064,Intersection_4,No Helmet,Truck,2
-V0390,2025-11-07 02:38:07.169064,Intersection_15,Red Light,Car,4
-V0391,2025-11-04 09:47:07.169064,Intersection_18,Speeding,Bike,2
-V0392,2025-11-04 14:40:07.169064,Intersection_4,Wrong Lane,Bus,2
-V0393,2025-11-06 05:12:07.169064,Intersection_14,Speeding,Truck,2
-V0394,2025-11-07 08:31:07.169064,Intersection_6,No Helmet,Bus,4
-V0395,2025-11-01 22:59:07.169064,Intersection_1,No Helmet,Car,2
-V0396,2025-11-06 23:33:07.169064,Intersection_5,Wrong Lane,Bus,4
-V0397,2025-11-02 02:10:07.169064,Intersection_20,No Helmet,Bus,5
-V0398,2025-11-02 18:55:07.169064,Intersection_18,No Helmet,Bus,2
-V0399,2025-10-31 19:59:07.169064,Intersection_4,Red Light,Truck,2
-V0400,2025-11-03 11:34:07.169064,Intersection_4,No Helmet,Bike,1
-V0401,2025-11-05 16:26:07.169064,Intersection_8,Wrong Lane,Truck,4
-V0402,2025-11-03 10:36:07.169064,Intersection_4,No Helmet,Car,4
-V0403,2025-11-05 11:49:07.169064,Intersection_16,Wrong Lane,Car,2
-V0404,2025-11-05 08:28:07.169064,Intersection_20,Red Light,Bike,1
-V0405,2025-11-01 16:40:07.169064,Intersection_3,Speeding,Bus,5
-V0406,2025-11-04 16:46:07.169064,Intersection_14,Speeding,Bike,1
-V0407,2025-11-03 10:07:07.169064,Intersection_17,No Helmet,Bus,3
-V0408,2025-11-01 22:33:07.169064,Intersection_10,No Helmet,Truck,3
-V0409,2025-11-01 20:11:07.169064,Intersection_8,Red Light,Bus,1
-V0410,2025-11-06 19:04:07.169064,Intersection_3,No Helmet,Bus,5
-V0411,2025-11-02 17:35:07.169064,Intersection_14,Wrong Lane,Car,3
-V0412,2025-11-01 09:14:07.169064,Intersection_13,Wrong Lane,Bike,3
-V0413,2025-11-04 19:43:07.169064,Intersection_6,Wrong Lane,Truck,2
-V0414,2025-11-06 02:14:07.169064,Intersection_4,Wrong Lane,Truck,2
-V0415,2025-11-01 22:51:07.169064,Intersection_17,Wrong Lane,Truck,4
-V0416,2025-11-03 01:55:07.169064,Intersection_12,Red Light,Bus,1
-V0417,2025-11-02 15:01:07.169064,Intersection_12,Red Light,Bus,4
-V0418,2025-11-06 10:04:07.169064,Intersection_12,Red Light,Car,4
-V0419,2025-11-05 16:38:07.169064,Intersection_1,Red Light,Bike,5
-V0420,2025-10-31 17:54:07.169064,Intersection_9,Red Light,Bus,3
-V0421,2025-11-03 15:31:07.169064,Intersection_1,Red Light,Car,5
-V0422,2025-11-05 19:31:07.169064,Intersection_6,No Helmet,Car,3
-V0423,2025-11-05 06:55:07.169064,Intersection_18,Speeding,Bike,2
-V0424,2025-11-01 04:08:07.169064,Intersection_7,No Helmet,Car,5
-V0425,2025-11-01 08:59:07.169064,Intersection_20,Wrong Lane,Bus,3
-V0426,2025-11-03 12:48:07.169064,Intersection_14,Speeding,Truck,1
-V0427,2025-11-04 13:21:07.169064,Intersection_15,No Helmet,Car,3
-V0428,2025-11-04 22:17:07.169064,Intersection_13,Speeding,Car,2
-V0429,2025-11-01 23:08:07.169064,Intersection_19,Speeding,Car,4
-V0430,2025-11-02 22:12:07.169064,Intersection_20,Wrong Lane,Truck,4
-V0431,2025-11-06 15:53:07.169064,Intersection_2,Red Light,Bus,3
-V0432,2025-11-02 16:44:07.169064,Intersection_12,Wrong Lane,Car,2
-V0433,2025-10-31 20:16:07.169064,Intersection_16,Red Light,Car,5
-V0434,2025-11-03 06:19:07.169064,Intersection_8,Red Light,Bike,5
-V0435,2025-11-03 12:11:07.169064,Intersection_13,Speeding,Bike,1
-V0436,2025-11-06 09:56:07.169064,Intersection_9,Wrong Lane,Truck,4
-V0437,2025-11-03 02:00:07.169064,Intersection_10,Speeding,Bike,5
-V0438,2025-11-03 13:40:07.169064,Intersection_2,Red Light,Car,4
-V0439,2025-11-06 23:07:07.169064,Intersection_6,Speeding,Truck,1
-V0440,2025-11-07 05:39:07.169064,Intersection_1,Speeding,Bike,3
-V0441,2025-11-06 03:32:07.169064,Intersection_6,Red Light,Car,5
-V0442,2025-11-05 22:00:07.169064,Intersection_6,Speeding,Car,2
-V0443,2025-11-01 03:02:07.169064,Intersection_7,Red Light,Bus,1
-V0444,2025-11-06 00:52:07.169064,Intersection_19,Red Light,Truck,4
-V0445,2025-11-07 02:00:07.169064,Intersection_5,No Helmet,Truck,4
-V0446,2025-11-04 13:48:07.169064,Intersection_17,Speeding,Bus,2
-V0447,2025-11-03 06:34:07.169064,Intersection_4,Speeding,Car,1
-V0448,2025-11-04 22:00:07.169064,Intersection_5,Red Light,Car,4
-V0449,2025-11-05 00:20:07.169064,Intersection_2,Speeding,Bus,5
-V0450,2025-11-03 10:38:07.169064,Intersection_4,Speeding,Bike,2
-V0451,2025-11-07 12:08:07.169064,Intersection_1,Speeding,Car,5
-V0452,2025-11-05 14:40:07.169064,Intersection_7,Speeding,Bus,4
-V0453,2025-11-04 17:22:07.169064,Intersection_7,No Helmet,Car,1
-V0454,2025-11-07 10:18:07.169064,Intersection_19,Wrong Lane,Bike,5
-V0455,2025-11-04 20:23:07.169064,Intersection_12,Red Light,Bike,1
-V0456,2025-11-02 22:46:07.169064,Intersection_19,Wrong Lane,Bike,4
-V0457,2025-11-01 12:21:07.169064,Intersection_5,Speeding,Bus,3
-V0458,2025-11-05 12:38:07.169064,Intersection_5,Red Light,Bus,1
-V0459,2025-11-05 08:11:07.169064,Intersection_8,No Helmet,Truck,1
-V0460,2025-11-05 15:01:07.169064,Intersection_13,Wrong Lane,Car,1
-V0461,2025-11-05 22:11:07.169064,Intersection_6,Wrong Lane,Bus,2
-V0462,2025-11-02 13:02:07.169064,Intersection_7,Wrong Lane,Car,3
-V0463,2025-11-03 05:54:07.169064,Intersection_6,No Helmet,Bus,3
-V0464,2025-11-04 06:15:07.169064,Intersection_18,Wrong Lane,Bike,2
-V0465,2025-11-06 19:39:07.169064,Intersection_3,Wrong Lane,Truck,3
-V0466,2025-11-01 02:31:07.169064,Intersection_11,No Helmet,Bike,3
-V0467,2025-11-04 22:05:07.169064,Intersection_19,Red Light,Bike,2
-V0468,2025-11-01 19:55:07.169064,Intersection_15,No Helmet,Bus,4
-V0469,2025-11-06 18:58:07.169064,Intersection_13,Speeding,Car,1
-V0470,2025-11-05 11:05:07.169064,Intersection_9,Wrong Lane,Bus,1
-V0471,2025-11-05 10:41:07.169064,Intersection_3,No Helmet,Car,1
-V0472,2025-11-04 01:02:07.169064,Intersection_16,No Helmet,Bike,5
-V0473,2025-11-03 12:27:07.169064,Intersection_9,Wrong Lane,Car,2
-V0474,2025-11-07 05:29:07.169064,Intersection_4,Red Light,Truck,3
-V0475,2025-11-05 12:11:07.169064,Intersection_13,Red Light,Truck,3
-V0476,2025-11-02 20:26:07.169064,Intersection_18,Wrong Lane,Bus,2
-V0477,2025-11-01 20:17:07.169064,Intersection_19,Wrong Lane,Bike,1
-V0478,2025-11-01 16:56:07.169064,Intersection_7,Wrong Lane,Bus,4
-V0479,2025-11-06 23:36:07.169064,Intersection_6,Wrong Lane,Truck,3
-V0480,2025-11-04 22:15:07.169064,Intersection_6,Wrong Lane,Car,3
-V0481,2025-10-31 19:02:07.169064,Intersection_7,Wrong Lane,Bike,5
-V0482,2025-11-04 12:04:07.169064,Intersection_10,No Helmet,Truck,3
-V0483,2025-11-02 16:06:07.169064,Intersection_19,Wrong Lane,Bike,3
-V0484,2025-11-04 12:19:07.169064,Intersection_11,Wrong Lane,Bus,1
-V0485,2025-11-03 13:28:07.169064,Intersection_15,Wrong Lane,Truck,5
-V0486,2025-10-31 18:29:07.169064,Intersection_10,Red Light,Bike,1
-V0487,2025-11-05 12:16:07.169064,Intersection_18,Wrong Lane,Bike,5
-V0488,2025-11-04 09:50:07.169064,Intersection_6,No Helmet,Car,3
-V0489,2025-11-01 11:26:07.169064,Intersection_5,Red Light,Bike,1
-V0490,2025-11-03 23:39:07.169064,Intersection_7,Wrong Lane,Bus,1
-V0491,2025-11-07 05:54:07.169064,Intersection_5,Red Light,Truck,1
-V0492,2025-11-04 03:21:07.169064,Intersection_12,Red Light,Truck,3
-V0493,2025-11-05 04:49:07.169064,Intersection_6,Speeding,Truck,5
-V0494,2025-11-01 16:33:07.169064,Intersection_14,Red Light,Car,4
-V0495,2025-11-04 04:28:07.169064,Intersection_5,Red Light,Truck,4
-V0496,2025-11-01 01:32:07.169064,Intersection_10,Red Light,Bike,5
-V0497,2025-11-05 05:30:07.169064,Intersection_18,Wrong Lane,Truck,2
-V0498,2025-10-31 17:40:07.169064,Intersection_13,Wrong Lane,Bike,2
-V0499,2025-11-04 06:10:07.169064,Intersection_19,Wrong Lane,Car,5
-V0500,2025-11-02 05:00:07.169064,Intersection_16,No Helmet,Truck,5
-V0501,2025-11-05 02:59:07.169064,Intersection_18,No Helmet,Bike,3
-V0502,2025-11-02 16:05:07.169064,Intersection_11,Speeding,Bus,3
-V0503,2025-11-06 03:03:07.169064,Intersection_6,Red Light,Bus,3
-V0504,2025-11-04 11:10:07.169064,Intersection_16,Red Light,Truck,1
-V0505,2025-11-01 17:29:07.169064,Intersection_7,Wrong Lane,Car,5
-V0506,2025-11-06 19:37:07.169064,Intersection_10,No Helmet,Truck,3
-V0507,2025-11-04 13:10:07.169064,Intersection_6,No Helmet,Bus,2
-V0508,2025-11-02 18:46:07.169064,Intersection_13,No Helmet,Car,1
-V0509,2025-10-31 15:58:07.169064,Intersection_9,Wrong Lane,Bike,1
-V0510,2025-10-31 21:52:07.169064,Intersection_18,Wrong Lane,Bike,1
-V0511,2025-11-04 21:58:07.169064,Intersection_17,Speeding,Car,2
-V0512,2025-11-02 01:11:07.169064,Intersection_5,No Helmet,Bike,2
-V0513,2025-11-02 16:12:07.169064,Intersection_3,Wrong Lane,Bus,3
-V0514,2025-11-01 08:35:07.170063,Intersection_5,No Helmet,Bike,1
-V0515,2025-11-02 19:54:07.170063,Intersection_9,No Helmet,Truck,4
-V0516,2025-11-01 04:40:07.170063,Intersection_10,Speeding,Car,2
-V0517,2025-11-06 23:34:07.170063,Intersection_4,Wrong Lane,Car,3
-V0518,2025-11-01 11:43:07.170063,Intersection_5,Speeding,Car,5
-V0519,2025-11-03 02:56:07.170063,Intersection_17,No Helmet,Bus,3
-V0520,2025-11-04 22:59:07.170063,Intersection_20,Speeding,Bus,1
-V0521,2025-11-02 16:04:07.170063,Intersection_4,No Helmet,Car,3
-V0522,2025-11-07 04:32:07.170063,Intersection_6,Red Light,Car,4
-V0523,2025-11-05 09:52:07.170063,Intersection_19,No Helmet,Bike,5
-V0524,2025-11-07 11:07:07.170063,Intersection_11,Speeding,Truck,3
-V0525,2025-11-01 21:03:07.170063,Intersection_8,Speeding,Bike,2
-V0526,2025-11-06 13:04:07.170063,Intersection_14,Speeding,Car,3
-V0527,2025-11-06 05:02:07.170063,Intersection_18,Red Light,Bus,4
-V0528,2025-11-06 20:56:07.170063,Intersection_8,Speeding,Bus,1
-V0529,2025-11-07 07:42:07.170063,Intersection_5,No Helmet,Bike,5
-V0530,2025-11-06 23:44:07.170063,Intersection_6,Red Light,Car,4
-V0531,2025-11-07 11:11:07.170063,Intersection_17,Red Light,Bike,2
-V0532,2025-11-07 01:40:07.170063,Intersection_4,Wrong Lane,Bike,5
-V0533,2025-11-01 09:14:07.170063,Intersection_18,Speeding,Car,4
-V0534,2025-11-02 22:34:07.170063,Intersection_3,Speeding,Car,1
-V0535,2025-11-03 10:54:07.170063,Intersection_6,Red Light,Truck,1
-V0536,2025-11-01 08:12:07.170063,Intersection_7,Wrong Lane,Car,4
-V0537,2025-11-02 20:38:07.170063,Intersection_8,Speeding,Bike,4
-V0538,2025-10-31 22:54:07.170063,Intersection_1,Wrong Lane,Car,3
-V0539,2025-11-01 14:56:07.170063,Intersection_10,Wrong Lane,Truck,3
-V0540,2025-11-01 15:26:07.170063,Intersection_16,Wrong Lane,Bike,3
-V0541,2025-11-05 01:44:07.170063,Intersection_1,Wrong Lane,Car,5
-V0542,2025-11-01 00:16:07.170063,Intersection_13,Wrong Lane,Truck,3
-V0543,2025-11-02 17:11:07.170063,Intersection_20,No Helmet,Bus,4
-V0544,2025-11-03 21:20:07.170063,Intersection_14,Wrong Lane,Bike,2
-V0545,2025-11-03 20:07:07.170063,Intersection_19,Red Light,Truck,3
-V0546,2025-11-04 05:30:07.170063,Intersection_18,Wrong Lane,Car,2
-V0547,2025-11-03 00:38:07.170063,Intersection_4,No Helmet,Truck,4
-V0548,2025-11-01 04:51:07.170063,Intersection_3,No Helmet,Car,1
-V0549,2025-11-02 11:18:07.170063,Intersection_19,No Helmet,Truck,1
-V0550,2025-11-07 02:26:07.170063,Intersection_19,No Helmet,Truck,2
-V0551,2025-11-05 08:09:07.170063,Intersection_7,Wrong Lane,Bus,3
-V0552,2025-11-05 18:23:07.170063,Intersection_17,No Helmet,Bus,5
-V0553,2025-11-06 02:42:07.170063,Intersection_17,Wrong Lane,Truck,2
-V0554,2025-11-01 16:49:07.170063,Intersection_18,Red Light,Truck,3
-V0555,2025-11-06 05:24:07.170063,Intersection_15,Speeding,Bus,4
-V0556,2025-11-01 22:05:07.170063,Intersection_5,Red Light,Car,4
-V0557,2025-11-04 19:18:07.170063,Intersection_19,No Helmet,Bike,1
-V0558,2025-11-01 15:27:07.170063,Intersection_20,Speeding,Bus,5
-V0559,2025-11-06 20:05:07.170063,Intersection_7,Wrong Lane,Bike,2
-V0560,2025-11-01 11:39:07.170063,Intersection_1,No Helmet,Bus,2
-V0561,2025-11-01 07:31:07.170063,Intersection_3,No Helmet,Car,4
-V0562,2025-10-31 16:29:07.170063,Intersection_13,No Helmet,Bus,1
-V0563,2025-11-03 01:46:07.170063,Intersection_12,Wrong Lane,Bike,1
-V0564,2025-11-06 05:39:07.170063,Intersection_18,Wrong Lane,Car,5
-V0565,2025-11-07 00:08:07.170063,Intersection_16,No Helmet,Bike,2
-V0566,2025-11-01 03:38:07.170063,Intersection_20,Speeding,Car,1
-V0567,2025-11-03 00:57:07.170063,Intersection_3,Speeding,Bus,1
-V0568,2025-10-31 21:10:07.170063,Intersection_6,Red Light,Truck,3
-V0569,2025-11-04 20:43:07.170063,Intersection_7,Wrong Lane,Bus,4
-V0570,2025-11-04 08:30:07.170063,Intersection_15,No Helmet,Bike,4
-V0571,2025-11-01 05:50:07.170063,Intersection_19,No Helmet,Car,3
-V0572,2025-11-05 13:52:07.170063,Intersection_8,Wrong Lane,Bus,5
-V0573,2025-11-02 20:38:07.170063,Intersection_20,Red Light,Car,4
-V0574,2025-11-01 23:35:07.170063,Intersection_10,Speeding,Truck,5
-V0575,2025-11-07 02:09:07.170063,Intersection_5,Red Light,Bus,1
-V0576,2025-11-03 12:58:07.170063,Intersection_20,Wrong Lane,Car,2
-V0577,2025-11-06 09:15:07.170063,Intersection_14,Speeding,Bus,1
-V0578,2025-11-01 10:19:07.170063,Intersection_12,Red Light,Truck,2
-V0579,2025-11-06 10:52:07.170063,Intersection_5,Wrong Lane,Truck,2
-V0580,2025-11-04 20:37:07.170063,Intersection_10,Wrong Lane,Bike,2
-V0581,2025-11-02 08:27:07.170063,Intersection_14,Speeding,Bus,2
-V0582,2025-11-01 22:40:07.170063,Intersection_13,Red Light,Bus,5
-V0583,2025-11-01 17:59:07.170063,Intersection_17,Speeding,Bus,4
-V0584,2025-11-06 23:10:07.170063,Intersection_4,Red Light,Car,5
-V0585,2025-11-07 00:52:07.170063,Intersection_6,Wrong Lane,Bus,1
-V0586,2025-11-05 12:59:07.170063,Intersection_19,No Helmet,Truck,2
-V0587,2025-11-07 00:00:07.170063,Intersection_18,No Helmet,Car,4
-V0588,2025-11-04 05:01:07.170063,Intersection_11,Wrong Lane,Car,2
-V0589,2025-11-02 06:35:07.170063,Intersection_10,Speeding,Truck,1
-V0590,2025-11-04 04:14:07.170063,Intersection_19,Wrong Lane,Car,2
-V0591,2025-11-07 12:53:07.170063,Intersection_5,Wrong Lane,Bus,1
-V0592,2025-11-04 04:49:07.170063,Intersection_4,No Helmet,Bus,1
-V0593,2025-11-07 05:59:07.170063,Intersection_7,Red Light,Bus,5
-V0594,2025-10-31 19:54:07.170063,Intersection_3,No Helmet,Truck,5
-V0595,2025-11-07 05:59:07.170063,Intersection_7,Red Light,Car,2
-V0596,2025-11-07 05:04:07.170063,Intersection_6,Speeding,Bus,3
-V0597,2025-11-03 23:00:07.170063,Intersection_3,Red Light,Car,2
-V0598,2025-11-06 13:51:07.170063,Intersection_1,No Helmet,Bike,1
-V0599,2025-11-06 21:39:07.170063,Intersection_20,Speeding,Truck,3
-V0600,2025-11-02 23:49:07.170063,Intersection_18,Wrong Lane,Bike,1
-V0601,2025-11-06 15:57:07.170063,Intersection_20,Wrong Lane,Bike,5
-V0602,2025-11-02 00:37:07.170063,Intersection_14,Speeding,Truck,1
-V0603,2025-11-07 13:52:07.170063,Intersection_6,Wrong Lane,Truck,1
-V0604,2025-11-02 00:49:07.170063,Intersection_15,Speeding,Bus,3
-V0605,2025-11-05 05:04:07.170063,Intersection_7,Red Light,Bike,2
-V0606,2025-11-02 03:46:07.170063,Intersection_19,Wrong Lane,Bus,3
-V0607,2025-11-04 09:24:07.170063,Intersection_17,Wrong Lane,Bus,1
-V0608,2025-11-03 06:28:07.170063,Intersection_7,No Helmet,Bus,2
-V0609,2025-11-03 14:22:07.170063,Intersection_15,Speeding,Bike,5
-V0610,2025-11-06 19:54:07.170063,Intersection_20,Red Light,Truck,3
-V0611,2025-11-01 00:33:07.170063,Intersection_5,Speeding,Bus,2
-V0612,2025-11-05 12:01:07.170063,Intersection_16,Wrong Lane,Truck,5
-V0613,2025-11-03 14:50:07.170063,Intersection_12,Speeding,Bike,2
-V0614,2025-11-05 04:49:07.170063,Intersection_13,Speeding,Car,2
-V0615,2025-11-04 09:36:07.170063,Intersection_4,Red Light,Bus,1
-V0616,2025-11-05 20:55:07.170063,Intersection_15,Speeding,Car,5
-V0617,2025-11-05 01:04:07.170063,Intersection_12,Red Light,Car,4
-V0618,2025-11-01 12:52:07.170063,Intersection_18,No Helmet,Truck,1
-V0619,2025-11-04 18:06:07.170063,Intersection_20,Red Light,Bus,4
-V0620,2025-11-03 20:31:07.170063,Intersection_5,Wrong Lane,Truck,5
-V0621,2025-11-04 22:48:07.170063,Intersection_4,Red Light,Car,5
-V0622,2025-11-03 00:54:07.170063,Intersection_9,Wrong Lane,Truck,5
-V0623,2025-11-04 08:26:07.170063,Intersection_9,Wrong Lane,Bike,1
-V0624,2025-11-07 11:27:07.170063,Intersection_3,Red Light,Truck,1
-V0625,2025-11-02 16:49:07.170063,Intersection_7,No Helmet,Truck,1
-V0626,2025-11-02 22:11:07.170063,Intersection_16,Red Light,Truck,3
-V0627,2025-11-03 21:58:07.170063,Intersection_3,Speeding,Truck,2
-V0628,2025-10-31 23:05:07.170063,Intersection_13,Wrong Lane,Bus,3
-V0629,2025-11-06 04:58:07.170063,Intersection_18,Red Light,Bike,3
-V0630,2025-11-07 10:52:07.170063,Intersection_9,Wrong Lane,Truck,2
-V0631,2025-11-07 04:36:07.170063,Intersection_1,No Helmet,Bus,5
-V0632,2025-11-02 09:12:07.170063,Intersection_7,Speeding,Bus,1
-V0633,2025-11-03 17:28:07.170063,Intersection_7,Red Light,Bike,4
-V0634,2025-11-06 21:53:07.170063,Intersection_11,Speeding,Bus,2
-V0635,2025-11-03 22:14:07.170063,Intersection_10,Red Light,Bus,5
-V0636,2025-11-03 15:11:07.170063,Intersection_15,Wrong Lane,Bike,2
-V0637,2025-11-01 18:16:07.170063,Intersection_11,No Helmet,Bus,5
-V0638,2025-11-01 14:05:07.170063,Intersection_12,Wrong Lane,Truck,5
-V0639,2025-11-03 22:06:07.170063,Intersection_15,Speeding,Car,5
-V0640,2025-11-05 13:50:07.170063,Intersection_5,Wrong Lane,Car,3
-V0641,2025-11-01 22:28:07.170063,Intersection_15,No Helmet,Truck,5
-V0642,2025-11-01 18:13:07.170063,Intersection_1,Wrong Lane,Bus,2
-V0643,2025-11-04 10:01:07.170063,Intersection_13,No Helmet,Car,5
-V0644,2025-11-02 23:25:07.170063,Intersection_6,Wrong Lane,Bus,4
-V0645,2025-10-31 18:44:07.170063,Intersection_20,Red Light,Bike,1
-V0646,2025-11-04 03:05:07.170063,Intersection_12,Red Light,Truck,2
-V0647,2025-11-02 13:19:07.170063,Intersection_17,Red Light,Bus,5
-V0648,2025-11-06 02:32:07.170063,Intersection_13,No Helmet,Bus,1
-V0649,2025-11-05 08:03:07.170063,Intersection_11,Red Light,Car,1
-V0650,2025-11-02 15:50:07.170063,Intersection_3,Red Light,Bike,2
-V0651,2025-11-03 17:57:07.170063,Intersection_9,No Helmet,Car,5
-V0652,2025-11-06 15:41:07.170063,Intersection_15,Speeding,Bike,3
-V0653,2025-11-02 05:33:07.170063,Intersection_16,Wrong Lane,Car,3
-V0654,2025-11-06 21:51:07.170063,Intersection_5,Wrong Lane,Bike,4
-V0655,2025-11-03 12:56:07.170063,Intersection_2,Wrong Lane,Car,2
-V0656,2025-11-03 16:48:07.170063,Intersection_3,Wrong Lane,Bus,2
-V0657,2025-11-05 17:48:07.170063,Intersection_17,No Helmet,Car,1
-V0658,2025-11-02 12:07:07.170063,Intersection_12,Red Light,Truck,5
-V0659,2025-11-06 11:51:07.170063,Intersection_19,Speeding,Truck,1
-V0660,2025-11-04 18:24:07.170063,Intersection_11,Red Light,Car,5
-V0661,2025-11-06 13:08:07.170063,Intersection_12,Speeding,Bike,3
-V0662,2025-11-05 23:26:07.170063,Intersection_14,Red Light,Car,4
-V0663,2025-11-05 11:44:07.170063,Intersection_15,Wrong Lane,Bike,2
-V0664,2025-10-31 17:55:07.170063,Intersection_15,Wrong Lane,Bus,2
-V0665,2025-11-05 20:20:07.170063,Intersection_13,Wrong Lane,Truck,3
-V0666,2025-11-03 22:03:07.170063,Intersection_16,Wrong Lane,Car,2
-V0667,2025-11-07 09:32:07.170063,Intersection_10,No Helmet,Truck,5
-V0668,2025-10-31 16:00:07.170063,Intersection_13,Speeding,Car,1
-V0669,2025-11-04 11:35:07.170063,Intersection_1,Speeding,Bus,1
-V0670,2025-11-06 08:46:07.170063,Intersection_4,No Helmet,Bike,1
-V0671,2025-10-31 21:25:07.170063,Intersection_14,Speeding,Truck,5
-V0672,2025-11-02 16:11:07.170063,Intersection_10,Wrong Lane,Truck,1
-V0673,2025-11-06 05:18:07.170063,Intersection_13,Speeding,Bike,4
-V0674,2025-11-05 11:08:07.170063,Intersection_19,Speeding,Bus,4
-V0675,2025-11-03 09:28:07.170063,Intersection_5,No Helmet,Bike,4
-V0676,2025-11-05 19:56:07.170063,Intersection_13,Speeding,Bus,5
-V0677,2025-11-02 23:46:07.170063,Intersection_16,Red Light,Bus,1
-V0678,2025-11-07 04:29:07.170063,Intersection_8,No Helmet,Truck,5
-V0679,2025-11-05 19:44:07.170063,Intersection_5,Speeding,Car,1
-V0680,2025-11-03 19:53:07.170063,Intersection_11,Speeding,Truck,1
-V0681,2025-11-04 09:32:07.170063,Intersection_5,Red Light,Bus,3
-V0682,2025-11-06 02:08:07.170063,Intersection_15,Wrong Lane,Bike,3
-V0683,2025-11-05 18:09:07.170063,Intersection_1,Red Light,Truck,5
-V0684,2025-11-05 06:08:07.170063,Intersection_7,Wrong Lane,Bike,1
-V0685,2025-11-01 23:58:07.170063,Intersection_15,Speeding,Bus,3
-V0686,2025-11-03 08:12:07.170063,Intersection_9,Red Light,Truck,1
-V0687,2025-11-04 01:58:07.170063,Intersection_5,Red Light,Bus,4
-V0688,2025-11-01 11:40:07.170063,Intersection_3,Wrong Lane,Bus,5
-V0689,2025-11-02 18:21:07.170063,Intersection_1,No Helmet,Truck,4
-V0690,2025-11-04 21:00:07.170063,Intersection_3,No Helmet,Truck,5
-V0691,2025-11-07 13:05:07.170063,Intersection_13,Speeding,Bike,3
-V0692,2025-11-02 09:44:07.170063,Intersection_19,Red Light,Bus,4
-V0693,2025-11-01 09:32:07.170063,Intersection_9,No Helmet,Car,1
-V0694,2025-11-02 18:27:07.170063,Intersection_19,Red Light,Bus,5
-V0695,2025-11-04 03:17:07.170063,Intersection_16,Wrong Lane,Bus,2
-V0696,2025-11-05 07:31:07.170063,Intersection_16,Speeding,Bike,4
-V0697,2025-11-03 11:54:07.170063,Intersection_8,No Helmet,Bike,1
-V0698,2025-11-07 09:40:07.170063,Intersection_1,No Helmet,Truck,1
-V0699,2025-11-02 08:24:07.170063,Intersection_12,Wrong Lane,Bus,5
-V0700,2025-11-05 04:11:07.170063,Intersection_11,Speeding,Bike,4
-V0701,2025-11-07 04:37:07.170063,Intersection_10,No Helmet,Car,4
-V0702,2025-11-06 18:19:07.170063,Intersection_16,Speeding,Bike,3
-V0703,2025-11-02 04:39:07.170063,Intersection_16,Speeding,Bike,1
-V0704,2025-11-03 13:14:07.170063,Intersection_12,Wrong Lane,Truck,2
-V0705,2025-11-01 06:34:07.170063,Intersection_20,Wrong Lane,Bus,4
-V0706,2025-11-07 05:32:07.170063,Intersection_4,Red Light,Bike,4
-V0707,2025-11-04 02:04:07.170063,Intersection_11,Red Light,Truck,5
-V0708,2025-11-02 19:03:07.170063,Intersection_16,No Helmet,Truck,4
-V0709,2025-11-02 06:45:07.170063,Intersection_14,No Helmet,Truck,1
-V0710,2025-11-06 06:01:07.170063,Intersection_11,Speeding,Bus,2
-V0711,2025-11-05 18:35:07.170063,Intersection_14,Speeding,Bus,3
-V0712,2025-11-03 23:57:07.170063,Intersection_19,No Helmet,Car,1
-V0713,2025-11-04 14:22:07.170063,Intersection_13,Red Light,Bike,1
-V0714,2025-11-06 09:13:07.170063,Intersection_1,No Helmet,Bus,3
-V0715,2025-11-04 03:16:07.170063,Intersection_14,Wrong Lane,Bike,3
-V0716,2025-11-01 18:07:07.170063,Intersection_3,Red Light,Car,1
-V0717,2025-11-03 19:47:07.170063,Intersection_16,Speeding,Car,2
-V0718,2025-11-06 08:17:07.170063,Intersection_14,Wrong Lane,Bike,3
-V0719,2025-11-02 01:49:07.170063,Intersection_20,Speeding,Bus,4
-V0720,2025-11-05 21:03:07.170063,Intersection_17,Red Light,Car,5
-V0721,2025-11-04 10:23:07.170063,Intersection_8,Wrong Lane,Bus,2
-V0722,2025-10-31 17:53:07.170063,Intersection_6,Red Light,Bike,5
-V0723,2025-11-02 12:54:07.170063,Intersection_16,Speeding,Bus,3
-V0724,2025-11-06 21:41:07.170063,Intersection_19,Speeding,Bike,4
-V0725,2025-11-02 07:00:07.170063,Intersection_14,Wrong Lane,Bike,5
-V0726,2025-11-06 19:15:07.170063,Intersection_9,Red Light,Bike,1
-V0727,2025-11-04 19:12:07.170063,Intersection_1,No Helmet,Bus,1
-V0728,2025-11-04 04:13:07.170063,Intersection_14,No Helmet,Truck,5
-V0729,2025-11-03 22:35:07.170063,Intersection_16,Wrong Lane,Truck,3
-V0730,2025-10-31 22:46:07.170063,Intersection_14,Red Light,Car,1
-V0731,2025-11-04 01:41:07.170063,Intersection_10,Red Light,Truck,3
-V0732,2025-11-06 15:40:07.170063,Intersection_2,No Helmet,Bus,5
-V0733,2025-11-02 23:38:07.170063,Intersection_7,No Helmet,Car,1
-V0734,2025-11-04 02:48:07.170063,Intersection_10,Wrong Lane,Car,5
-V0735,2025-11-07 12:42:07.170063,Intersection_14,Speeding,Truck,5
-V0736,2025-11-04 18:54:07.170063,Intersection_12,Wrong Lane,Truck,5
-V0737,2025-11-01 20:15:07.170063,Intersection_11,Red Light,Bike,2
-V0738,2025-11-07 10:54:07.170063,Intersection_3,Speeding,Car,5
-V0739,2025-11-04 06:47:07.170063,Intersection_4,Red Light,Bike,2
-V0740,2025-11-06 03:01:07.170063,Intersection_15,No Helmet,Bike,5
-V0741,2025-10-31 19:02:07.170063,Intersection_13,Speeding,Bike,5
-V0742,2025-11-02 21:47:07.170063,Intersection_10,Red Light,Car,1
-V0743,2025-11-07 14:03:07.170063,Intersection_15,Speeding,Car,3
-V0744,2025-11-04 00:35:07.170063,Intersection_20,Speeding,Car,4
-V0745,2025-11-04 23:44:07.170063,Intersection_10,Wrong Lane,Truck,3
-V0746,2025-11-01 18:25:07.170063,Intersection_20,Red Light,Bike,4
-V0747,2025-11-03 15:50:07.170063,Intersection_9,Speeding,Truck,3
-V0748,2025-11-07 05:57:07.170063,Intersection_10,No Helmet,Bus,4
-V0749,2025-11-03 19:31:07.170063,Intersection_13,No Helmet,Bike,2
-V0750,2025-11-01 07:39:07.170063,Intersection_7,Red Light,Car,5
-V0751,2025-11-02 15:23:07.170063,Intersection_17,Speeding,Truck,4
-V0752,2025-11-06 12:13:07.170063,Intersection_3,Speeding,Bike,1
-V0753,2025-11-04 03:46:07.170063,Intersection_12,Wrong Lane,Truck,5
-V0754,2025-11-04 23:49:07.170063,Intersection_20,Wrong Lane,Bus,4
-V0755,2025-11-06 12:15:07.170063,Intersection_18,Red Light,Truck,2
-V0756,2025-11-04 13:28:07.170063,Intersection_19,Wrong Lane,Bus,1
-V0757,2025-11-06 07:20:07.170063,Intersection_8,No Helmet,Bike,1
-V0758,2025-11-03 15:15:07.170063,Intersection_12,Red Light,Bus,5
-V0759,2025-11-01 05:29:07.170063,Intersection_1,Wrong Lane,Bike,5
-V0760,2025-11-03 18:00:07.170063,Intersection_4,No Helmet,Bike,2
-V0761,2025-11-01 21:57:07.170063,Intersection_12,No Helmet,Bus,2
-V0762,2025-11-02 21:13:07.170063,Intersection_13,No Helmet,Truck,2
-V0763,2025-11-04 10:08:07.170063,Intersection_10,No Helmet,Car,5
-V0764,2025-11-01 01:35:07.170063,Intersection_11,Speeding,Bus,4
-V0765,2025-11-07 02:52:07.170063,Intersection_16,No Helmet,Bike,4
-V0766,2025-11-05 09:59:07.170063,Intersection_10,Speeding,Bike,1
-V0767,2025-11-05 17:06:07.170063,Intersection_1,Red Light,Car,4
-V0768,2025-11-02 22:54:07.170063,Intersection_9,Speeding,Car,4
-V0769,2025-11-06 17:57:07.170063,Intersection_5,Speeding,Bus,4
-V0770,2025-11-06 09:05:07.170063,Intersection_1,Wrong Lane,Bike,2
-V0771,2025-11-03 07:24:07.170063,Intersection_15,Red Light,Car,1
-V0772,2025-11-07 09:11:07.170063,Intersection_5,Speeding,Truck,2
-V0773,2025-11-01 09:27:07.170063,Intersection_16,Speeding,Bike,3
-V0774,2025-11-03 05:26:07.170063,Intersection_20,Speeding,Bus,3
-V0775,2025-11-01 17:16:07.170063,Intersection_9,Red Light,Truck,3
-V0776,2025-11-02 01:16:07.170063,Intersection_4,Speeding,Bike,5
-V0777,2025-11-02 14:42:07.170063,Intersection_10,Red Light,Bike,4
-V0778,2025-11-06 14:53:07.170063,Intersection_17,No Helmet,Bus,3
-V0779,2025-10-31 21:50:07.170063,Intersection_7,Speeding,Bike,3
-V0780,2025-11-02 05:35:07.170063,Intersection_19,Wrong Lane,Truck,2
-V0781,2025-11-05 19:55:07.170063,Intersection_7,Wrong Lane,Bike,1
-V0782,2025-11-03 21:51:07.170063,Intersection_3,Wrong Lane,Car,1
-V0783,2025-11-03 12:51:07.170063,Intersection_3,Red Light,Truck,3
-V0784,2025-11-05 10:26:07.170063,Intersection_20,Speeding,Truck,1
-V0785,2025-11-04 01:53:07.170063,Intersection_10,Wrong Lane,Bus,1
-V0786,2025-11-07 02:22:07.170063,Intersection_2,Wrong Lane,Bike,5
-V0787,2025-11-02 07:35:07.170063,Intersection_20,No Helmet,Car,1
-V0788,2025-10-31 18:50:07.170063,Intersection_12,Wrong Lane,Bus,2
-V0789,2025-11-06 21:34:07.170063,Intersection_20,Speeding,Bus,2
-V0790,2025-11-05 14:38:07.170063,Intersection_20,Red Light,Bike,5
-V0791,2025-11-01 23:51:07.170063,Intersection_5,Red Light,Bike,3
-V0792,2025-11-03 00:17:07.170063,Intersection_8,Red Light,Car,4
-V0793,2025-11-05 14:43:07.170063,Intersection_15,Red Light,Bike,2
-V0794,2025-11-05 08:09:07.170063,Intersection_7,Wrong Lane,Bike,4
-V0795,2025-11-05 10:36:07.170063,Intersection_18,No Helmet,Truck,5
-V0796,2025-11-04 11:42:07.170063,Intersection_9,Speeding,Car,3
-V0797,2025-11-02 09:35:07.170063,Intersection_11,Wrong Lane,Bike,5
-V0798,2025-11-03 09:23:07.170063,Intersection_5,No Helmet,Bus,1
-V0799,2025-11-06 16:53:07.170063,Intersection_15,Red Light,Car,2
-V0800,2025-10-31 20:57:07.170063,Intersection_10,No Helmet,Car,4
-V0801,2025-11-05 22:16:07.170063,Intersection_17,No Helmet,Car,1
-V0802,2025-11-04 18:42:07.170063,Intersection_9,Red Light,Bike,2
-V0803,2025-11-03 09:18:07.170063,Intersection_1,No Helmet,Bus,1
-V0804,2025-11-02 10:21:07.170063,Intersection_7,Wrong Lane,Bus,1
-V0805,2025-11-02 17:59:07.170063,Intersection_18,Red Light,Bike,2
-V0806,2025-11-06 11:15:07.170063,Intersection_6,Speeding,Truck,4
-V0807,2025-11-04 22:13:07.170063,Intersection_4,Wrong Lane,Car,2
-V0808,2025-11-05 03:46:07.170063,Intersection_12,Wrong Lane,Bus,5
-V0809,2025-11-02 23:18:07.171063,Intersection_5,Wrong Lane,Car,4
-V0810,2025-11-01 08:01:07.171063,Intersection_15,Red Light,Car,2
-V0811,2025-11-06 04:14:07.171063,Intersection_10,Red Light,Bike,4
-V0812,2025-11-03 17:53:07.171063,Intersection_8,No Helmet,Car,2
-V0813,2025-11-03 12:30:07.171063,Intersection_12,No Helmet,Bus,3
-V0814,2025-11-04 19:36:07.171063,Intersection_13,Wrong Lane,Car,4
-V0815,2025-11-03 18:47:07.171063,Intersection_1,No Helmet,Car,3
-V0816,2025-11-01 17:00:07.171063,Intersection_13,No Helmet,Bike,4
-V0817,2025-11-04 01:00:07.171063,Intersection_10,Speeding,Car,4
-V0818,2025-11-03 15:34:07.171063,Intersection_13,Speeding,Bus,5
-V0819,2025-11-04 12:12:07.171063,Intersection_11,No Helmet,Bike,2
-V0820,2025-11-03 01:35:07.171063,Intersection_19,No Helmet,Truck,5
-V0821,2025-11-07 08:11:07.171063,Intersection_19,Red Light,Truck,5
-V0822,2025-11-02 00:00:07.171063,Intersection_16,No Helmet,Car,3
-V0823,2025-11-01 22:21:07.171063,Intersection_15,Red Light,Bike,4
-V0824,2025-11-03 14:06:07.171063,Intersection_18,Speeding,Truck,4
-V0825,2025-11-03 22:46:07.171063,Intersection_3,Wrong Lane,Car,5
-V0826,2025-11-02 09:42:07.171063,Intersection_2,No Helmet,Truck,2
-V0827,2025-11-01 01:08:07.171063,Intersection_5,Speeding,Car,5
-V0828,2025-11-02 21:21:07.171063,Intersection_7,Red Light,Car,3
-V0829,2025-11-07 08:30:07.171063,Intersection_5,No Helmet,Bus,4
-V0830,2025-11-07 07:51:07.171063,Intersection_13,Wrong Lane,Bike,4
-V0831,2025-11-06 14:08:07.171063,Intersection_6,Red Light,Bus,5
-V0832,2025-11-07 01:30:07.171063,Intersection_13,Red Light,Truck,2
-V0833,2025-11-01 19:05:07.171063,Intersection_14,Wrong Lane,Bike,5
-V0834,2025-11-01 14:39:07.171063,Intersection_17,No Helmet,Bus,2
-V0835,2025-11-07 06:52:07.171063,Intersection_1,Wrong Lane,Truck,1
-V0836,2025-10-31 18:53:07.171063,Intersection_14,Red Light,Bike,1
-V0837,2025-11-03 12:03:07.171063,Intersection_19,Red Light,Truck,5
-V0838,2025-11-07 11:51:07.171063,Intersection_16,Red Light,Truck,5
-V0839,2025-11-04 07:54:07.171063,Intersection_6,No Helmet,Bus,5
-V0840,2025-10-31 18:18:07.171063,Intersection_13,No Helmet,Car,4
-V0841,2025-11-07 08:31:07.171063,Intersection_8,Red Light,Truck,5
-V0842,2025-11-07 12:20:07.171063,Intersection_20,Wrong Lane,Truck,5
-V0843,2025-11-02 12:34:07.171063,Intersection_13,Wrong Lane,Bike,3
-V0844,2025-10-31 16:22:07.171063,Intersection_16,No Helmet,Truck,3
-V0845,2025-11-05 05:05:07.171063,Intersection_5,No Helmet,Bus,1
-V0846,2025-11-06 10:08:07.171063,Intersection_7,Red Light,Bus,3
-V0847,2025-11-07 05:47:07.171063,Intersection_7,Wrong Lane,Bus,4
-V0848,2025-11-05 19:09:07.171063,Intersection_2,No Helmet,Bike,2
-V0849,2025-11-04 13:40:07.171063,Intersection_4,Speeding,Car,4
-V0850,2025-11-07 04:37:07.171063,Intersection_13,Wrong Lane,Car,2
-V0851,2025-11-03 04:25:07.171063,Intersection_19,Speeding,Car,1
-V0852,2025-11-05 14:08:07.171063,Intersection_14,Red Light,Car,3
-V0853,2025-11-05 06:38:07.171063,Intersection_4,Red Light,Car,5
-V0854,2025-11-03 11:11:07.171063,Intersection_6,Red Light,Car,3
-V0855,2025-11-03 11:46:07.171063,Intersection_11,No Helmet,Bus,5
-V0856,2025-11-06 19:28:07.171063,Intersection_9,No Helmet,Bike,1
-V0857,2025-11-06 19:11:07.171063,Intersection_20,No Helmet,Car,3
-V0858,2025-11-06 01:25:07.171063,Intersection_10,Red Light,Bus,2
-V0859,2025-11-02 06:01:07.171063,Intersection_7,Speeding,Truck,2
-V0860,2025-11-06 07:48:07.171063,Intersection_5,Red Light,Bike,1
-V0861,2025-11-03 10:42:07.171063,Intersection_7,Red Light,Truck,4
-V0862,2025-11-04 13:48:07.171063,Intersection_11,Speeding,Bike,2
-V0863,2025-11-04 00:22:07.171063,Intersection_17,Wrong Lane,Bike,3
-V0864,2025-11-01 20:32:07.171063,Intersection_9,Red Light,Bus,4
-V0865,2025-11-06 07:01:07.171063,Intersection_14,Speeding,Bike,4
-V0866,2025-11-01 08:25:07.171063,Intersection_5,Red Light,Bus,4
-V0867,2025-11-01 00:20:07.171063,Intersection_12,Red Light,Truck,3
-V0868,2025-11-05 15:29:07.171063,Intersection_15,No Helmet,Truck,3
-V0869,2025-11-07 00:47:07.171063,Intersection_6,Wrong Lane,Car,1
-V0870,2025-11-04 14:53:07.171063,Intersection_14,No Helmet,Car,4
-V0871,2025-11-05 18:00:07.171063,Intersection_16,Speeding,Bike,1
-V0872,2025-11-02 04:40:07.171063,Intersection_6,Speeding,Bus,3
-V0873,2025-11-03 10:53:07.171063,Intersection_16,No Helmet,Bike,4
-V0874,2025-10-31 18:08:07.171063,Intersection_10,No Helmet,Truck,4
-V0875,2025-11-06 06:22:07.171063,Intersection_3,Wrong Lane,Truck,3
-V0876,2025-11-02 18:09:07.171063,Intersection_9,Speeding,Truck,2
-V0877,2025-10-31 17:02:07.171063,Intersection_7,No Helmet,Truck,4
-V0878,2025-11-03 21:22:07.171063,Intersection_2,Red Light,Car,2
-V0879,2025-11-01 18:15:07.171063,Intersection_1,Wrong Lane,Bike,3
-V0880,2025-11-03 08:52:07.171063,Intersection_1,Wrong Lane,Bus,1
-V0881,2025-11-04 05:09:07.171063,Intersection_18,Wrong Lane,Bus,3
-V0882,2025-11-03 09:44:07.171063,Intersection_2,Red Light,Car,2
-V0883,2025-11-01 22:10:07.171063,Intersection_3,Wrong Lane,Bus,3
-V0884,2025-11-02 19:55:07.171063,Intersection_2,Red Light,Car,2
-V0885,2025-11-04 19:47:07.171063,Intersection_10,No Helmet,Car,4
-V0886,2025-11-04 20:47:07.171063,Intersection_7,Red Light,Bike,2
-V0887,2025-11-06 08:56:07.171063,Intersection_19,No Helmet,Car,2
-V0888,2025-10-31 21:49:07.171063,Intersection_6,No Helmet,Car,1
-V0889,2025-10-31 19:01:07.171063,Intersection_13,No Helmet,Car,5
-V0890,2025-10-31 16:57:07.171063,Intersection_17,Wrong Lane,Truck,3
-V0891,2025-11-02 23:33:07.171063,Intersection_9,Speeding,Truck,4
-V0892,2025-11-04 05:23:07.171063,Intersection_15,No Helmet,Car,3
-V0893,2025-11-06 11:14:07.171063,Intersection_13,No Helmet,Truck,5
-V0894,2025-11-06 17:41:07.171063,Intersection_9,Speeding,Bike,4
-V0895,2025-11-07 07:34:07.171063,Intersection_4,Speeding,Bike,5
-V0896,2025-11-03 00:52:07.171063,Intersection_14,No Helmet,Car,2
-V0897,2025-11-03 11:59:07.171063,Intersection_15,No Helmet,Bike,2
-V0898,2025-11-04 14:04:07.171063,Intersection_16,Wrong Lane,Truck,2
-V0899,2025-11-07 08:20:07.171063,Intersection_15,No Helmet,Bus,5
-V0900,2025-11-07 07:58:07.171063,Intersection_15,Red Light,Bus,2
-V0901,2025-11-01 10:16:07.171063,Intersection_1,Wrong Lane,Truck,4
-V0902,2025-11-06 15:54:07.171063,Intersection_18,No Helmet,Truck,2
-V0903,2025-11-01 10:32:07.171063,Intersection_14,Red Light,Car,1
-V0904,2025-11-05 14:57:07.171063,Intersection_15,Wrong Lane,Car,1
-V0905,2025-11-05 11:41:07.171063,Intersection_20,Speeding,Bus,3
-V0906,2025-11-06 11:38:07.171063,Intersection_6,Red Light,Bike,1
-V0907,2025-10-31 21:48:07.171063,Intersection_16,No Helmet,Bus,2
-V0908,2025-11-01 03:30:07.171063,Intersection_7,Red Light,Car,2
-V0909,2025-11-05 05:08:07.171063,Intersection_14,Speeding,Truck,4
-V0910,2025-11-06 03:20:07.171063,Intersection_6,Red Light,Bike,2
-V0911,2025-11-02 11:26:07.171063,Intersection_6,Speeding,Truck,5
-V0912,2025-11-05 13:41:07.171063,Intersection_9,Speeding,Bus,4
-V0913,2025-11-05 23:00:07.171063,Intersection_11,Wrong Lane,Bus,2
-V0914,2025-11-04 12:05:07.171063,Intersection_8,Speeding,Truck,2
-V0915,2025-11-02 22:18:07.171063,Intersection_8,Speeding,Truck,4
-V0916,2025-11-06 09:47:07.171063,Intersection_18,Red Light,Bus,1
-V0917,2025-11-02 10:43:07.171063,Intersection_6,Red Light,Bike,4
-V0918,2025-11-01 13:54:07.171063,Intersection_5,Speeding,Bus,1
-V0919,2025-11-07 01:50:07.171063,Intersection_12,Red Light,Bike,4
-V0920,2025-11-04 02:00:07.171063,Intersection_12,Red Light,Car,5
-V0921,2025-11-07 06:48:07.171063,Intersection_4,Wrong Lane,Car,1
-V0922,2025-11-02 06:50:07.171063,Intersection_3,Red Light,Bike,1
-V0923,2025-11-06 01:31:07.171063,Intersection_15,Wrong Lane,Bike,5
-V0924,2025-11-05 22:14:07.171063,Intersection_14,Wrong Lane,Car,4
-V0925,2025-11-06 13:23:07.171063,Intersection_4,Speeding,Car,3
-V0926,2025-11-02 13:53:07.171063,Intersection_16,Speeding,Bike,3
-V0927,2025-11-04 23:01:07.171063,Intersection_9,Speeding,Bus,2
-V0928,2025-11-02 07:15:07.171063,Intersection_18,No Helmet,Bike,5
-V0929,2025-11-03 03:19:07.171063,Intersection_5,No Helmet,Bike,5
-V0930,2025-11-01 22:20:07.171063,Intersection_2,Red Light,Bus,5
-V0931,2025-11-05 21:56:07.171063,Intersection_12,Red Light,Bus,4
-V0932,2025-11-02 07:38:07.171063,Intersection_15,No Helmet,Truck,1
-V0933,2025-11-01 15:49:07.171063,Intersection_10,Wrong Lane,Bus,1
-V0934,2025-11-05 07:18:07.171063,Intersection_3,No Helmet,Car,2
-V0935,2025-11-07 12:19:07.171063,Intersection_18,Speeding,Car,4
-V0936,2025-11-01 06:56:07.171063,Intersection_16,Red Light,Car,2
-V0937,2025-11-04 22:54:07.171063,Intersection_20,Wrong Lane,Car,4
-V0938,2025-11-02 08:21:07.171063,Intersection_15,No Helmet,Car,3
-V0939,2025-10-31 22:14:07.171063,Intersection_13,Red Light,Bike,3
-V0940,2025-11-05 07:18:07.171063,Intersection_18,Wrong Lane,Car,2
-V0941,2025-11-07 09:08:07.171063,Intersection_1,Wrong Lane,Bike,1
-V0942,2025-10-31 22:36:07.171063,Intersection_7,No Helmet,Truck,2
-V0943,2025-11-03 22:32:07.171063,Intersection_20,Wrong Lane,Bus,1
-V0944,2025-11-02 18:15:07.171063,Intersection_11,Red Light,Bus,4
-V0945,2025-11-07 08:45:07.171063,Intersection_7,Wrong Lane,Bus,2
-V0946,2025-10-31 22:25:07.171063,Intersection_5,Red Light,Bike,5
-V0947,2025-11-06 14:44:07.171063,Intersection_14,No Helmet,Bus,4
-V0948,2025-11-04 11:05:07.171063,Intersection_1,Wrong Lane,Bike,5
-V0949,2025-11-01 04:40:07.171063,Intersection_16,Speeding,Bus,3
-V0950,2025-11-02 11:08:07.171063,Intersection_14,Speeding,Bus,2
-V0951,2025-11-06 18:13:07.171063,Intersection_9,Wrong Lane,Bike,5
-V0952,2025-11-01 08:36:07.171063,Intersection_8,No Helmet,Car,2
-V0953,2025-11-03 20:23:07.171063,Intersection_11,No Helmet,Truck,5
-V0954,2025-11-04 18:54:07.171063,Intersection_6,Wrong Lane,Bus,1
-V0955,2025-10-31 16:37:07.171063,Intersection_15,Wrong Lane,Car,2
-V0956,2025-11-07 11:58:07.171063,Intersection_11,Speeding,Car,4
-V0957,2025-11-04 23:43:07.171063,Intersection_10,No Helmet,Bike,2
-V0958,2025-11-06 05:32:07.171063,Intersection_18,Wrong Lane,Bike,5
-V0959,2025-11-03 03:38:07.171063,Intersection_12,No Helmet,Bus,4
-V0960,2025-11-02 04:52:07.171063,Intersection_5,Red Light,Bike,2
-V0961,2025-10-31 17:34:07.171063,Intersection_1,Red Light,Car,4
-V0962,2025-11-04 15:10:07.171063,Intersection_20,Red Light,Bus,5
-V0963,2025-11-07 12:04:07.171063,Intersection_8,No Helmet,Bus,2
-V0964,2025-11-04 13:45:07.171063,Intersection_4,Red Light,Bike,1
-V0965,2025-11-06 22:58:07.171063,Intersection_6,No Helmet,Bike,1
-V0966,2025-11-04 12:14:07.171063,Intersection_10,No Helmet,Bus,5
-V0967,2025-11-01 08:40:07.171063,Intersection_7,Red Light,Bus,2
-V0968,2025-10-31 23:18:07.171063,Intersection_19,Red Light,Bike,5
-V0969,2025-10-31 19:34:07.171063,Intersection_11,Red Light,Car,2
-V0970,2025-11-02 03:49:07.171063,Intersection_3,Red Light,Car,2
-V0971,2025-11-03 20:58:07.171063,Intersection_6,Wrong Lane,Bus,1
-V0972,2025-11-03 02:42:07.171063,Intersection_17,No Helmet,Car,3
-V0973,2025-11-07 14:17:07.171063,Intersection_14,Red Light,Bus,3
-V0974,2025-11-06 08:04:07.171063,Intersection_2,No Helmet,Truck,1
-V0975,2025-11-07 03:45:07.171063,Intersection_7,Red Light,Car,5
-V0976,2025-10-31 21:49:07.171063,Intersection_16,Speeding,Truck,2
-V0977,2025-11-04 04:25:07.171063,Intersection_17,Red Light,Bus,5
-V0978,2025-11-05 01:23:07.171063,Intersection_14,Wrong Lane,Truck,4
-V0979,2025-11-06 05:11:07.171063,Intersection_14,Speeding,Truck,2
-V0980,2025-11-04 14:40:07.171063,Intersection_3,Speeding,Truck,5
-V0981,2025-11-04 00:42:07.171063,Intersection_14,No Helmet,Bus,3
-V0982,2025-11-01 00:33:07.171063,Intersection_7,No Helmet,Bike,5
-V0983,2025-11-01 04:10:07.171063,Intersection_5,Red Light,Truck,5
-V0984,2025-11-07 06:00:07.171063,Intersection_7,Wrong Lane,Truck,4
-V0985,2025-11-05 18:01:07.171063,Intersection_10,Speeding,Car,4
-V0986,2025-11-06 19:33:07.171063,Intersection_2,Wrong Lane,Truck,2
-V0987,2025-11-01 19:55:07.171063,Intersection_9,Speeding,Car,3
-V0988,2025-11-05 00:55:07.171063,Intersection_9,Red Light,Car,1
-V0989,2025-11-04 00:49:07.171063,Intersection_4,No Helmet,Car,5
-V0990,2025-11-07 01:51:07.171063,Intersection_15,No Helmet,Truck,3
-V0991,2025-11-06 04:14:07.171063,Intersection_8,Red Light,Bike,1
-V0992,2025-11-01 16:29:07.171063,Intersection_20,Speeding,Truck,2
-V0993,2025-11-02 09:54:07.171063,Intersection_5,Wrong Lane,Bus,5
-V0994,2025-11-07 10:37:07.171063,Intersection_9,No Helmet,Truck,2
-V0995,2025-11-03 15:34:07.171063,Intersection_18,Speeding,Bike,1
-V0996,2025-11-05 07:30:07.171063,Intersection_16,Speeding,Car,5
-V0997,2025-11-06 22:47:07.171063,Intersection_20,Red Light,Bus,4
-V0998,2025-11-02 22:14:07.171063,Intersection_14,Speeding,Truck,5
-V0999,2025-11-06 22:19:07.171063,Intersection_11,No Helmet,Truck,1
-V1000,2025-11-05 21:37:07.171063,Intersection_10,Red Light,Bike,5
+V0001,2025-11-06 14:48:54.522197,Intersection_10,No Helmet,Truck,1
+V0002,2025-11-05 07:04:54.522197,Intersection_9,Speeding,Bus,5
+V0003,2025-11-06 01:38:54.522197,Intersection_18,Red Light,Bus,5
+V0004,2025-11-08 03:03:54.522197,Intersection_1,No Helmet,Bike,4
+V0005,2025-11-03 22:52:54.522197,Intersection_15,Speeding,Bike,4
+V0006,2025-11-08 11:50:54.522197,Intersection_5,No Helmet,Bus,1
+V0007,2025-11-07 05:29:54.522197,Intersection_13,Red Light,Truck,2
+V0008,2025-11-07 14:35:54.522197,Intersection_12,Red Light,Bus,2
+V0009,2025-11-05 14:16:54.522197,Intersection_16,Wrong Lane,Bus,1
+V0010,2025-11-09 11:58:54.522197,Intersection_4,Speeding,Car,2
+V0011,2025-11-04 20:52:54.522197,Intersection_3,Wrong Lane,Bike,3
+V0012,2025-11-08 02:24:54.522197,Intersection_1,Red Light,Bike,1
+V0013,2025-11-08 21:21:54.522197,Intersection_10,No Helmet,Truck,5
+V0014,2025-11-05 12:37:54.522197,Intersection_14,Speeding,Truck,1
+V0015,2025-11-04 03:39:54.522197,Intersection_8,No Helmet,Car,2
+V0016,2025-11-09 20:11:54.522197,Intersection_6,Speeding,Bike,2
+V0017,2025-11-06 15:34:54.522197,Intersection_12,Speeding,Car,1
+V0018,2025-11-04 15:42:54.522197,Intersection_9,Speeding,Bus,1
+V0019,2025-11-05 18:11:54.522197,Intersection_4,Wrong Lane,Bike,1
+V0020,2025-11-07 00:47:54.522197,Intersection_8,Red Light,Car,5
+V0021,2025-11-07 13:16:54.522197,Intersection_1,Wrong Lane,Truck,5
+V0022,2025-11-05 12:56:54.522197,Intersection_1,Red Light,Truck,1
+V0023,2025-11-07 00:16:54.522197,Intersection_4,Wrong Lane,Bike,4
+V0024,2025-11-08 11:31:54.522197,Intersection_12,Speeding,Truck,2
+V0025,2025-11-10 05:15:54.522197,Intersection_20,Wrong Lane,Bus,3
+V0026,2025-11-08 08:00:54.522197,Intersection_16,Red Light,Truck,3
+V0027,2025-11-06 07:09:54.522197,Intersection_20,Red Light,Bike,2
+V0028,2025-11-05 00:37:54.522197,Intersection_8,Red Light,Car,4
+V0029,2025-11-06 00:06:54.522197,Intersection_5,Wrong Lane,Truck,2
+V0030,2025-11-09 17:05:54.522197,Intersection_20,Red Light,Car,3
+V0031,2025-11-06 01:04:54.522197,Intersection_6,Red Light,Car,5
+V0032,2025-11-04 11:37:54.522197,Intersection_10,Speeding,Bike,4
+V0033,2025-11-10 13:29:54.522197,Intersection_15,Speeding,Bike,5
+V0034,2025-11-03 19:00:54.522197,Intersection_15,Speeding,Bike,3
+V0035,2025-11-09 06:23:54.522197,Intersection_3,Wrong Lane,Truck,5
+V0036,2025-11-07 11:40:54.522197,Intersection_13,Wrong Lane,Truck,2
+V0037,2025-11-06 15:21:54.522197,Intersection_14,Speeding,Bike,3
+V0038,2025-11-06 21:27:54.522197,Intersection_17,Wrong Lane,Bus,3
+V0039,2025-11-06 04:45:54.522197,Intersection_13,No Helmet,Car,1
+V0040,2025-11-09 07:36:54.522197,Intersection_20,Red Light,Bike,1
+V0041,2025-11-08 06:05:54.522197,Intersection_3,Speeding,Car,5
+V0042,2025-11-06 00:58:54.522197,Intersection_3,Speeding,Car,4
+V0043,2025-11-06 12:35:54.522197,Intersection_14,Red Light,Bike,1
+V0044,2025-11-09 20:53:54.522197,Intersection_15,No Helmet,Car,4
+V0045,2025-11-05 19:19:54.522197,Intersection_9,Red Light,Bike,4
+V0046,2025-11-05 18:31:54.522197,Intersection_10,Red Light,Bus,4
+V0047,2025-11-04 13:33:54.522197,Intersection_12,Wrong Lane,Bike,1
+V0048,2025-11-07 00:38:54.522197,Intersection_20,No Helmet,Bike,3
+V0049,2025-11-03 17:12:54.522197,Intersection_11,Red Light,Car,3
+V0050,2025-11-04 08:28:54.522197,Intersection_12,Wrong Lane,Car,3
+V0051,2025-11-07 15:58:54.522197,Intersection_4,Wrong Lane,Truck,4
+V0052,2025-11-06 03:07:54.522197,Intersection_18,No Helmet,Truck,5
+V0053,2025-11-06 15:36:54.522197,Intersection_16,Speeding,Car,1
+V0054,2025-11-08 01:54:54.522197,Intersection_3,Speeding,Bus,5
+V0055,2025-11-06 21:06:54.522197,Intersection_1,No Helmet,Bike,4
+V0056,2025-11-05 21:29:54.522197,Intersection_12,Red Light,Car,4
+V0057,2025-11-09 13:26:54.522197,Intersection_18,No Helmet,Car,1
+V0058,2025-11-09 13:34:54.530196,Intersection_12,No Helmet,Truck,4
+V0059,2025-11-03 16:01:54.530196,Intersection_7,Speeding,Bike,4
+V0060,2025-11-08 18:23:54.531088,Intersection_9,No Helmet,Bus,1
+V0061,2025-11-08 02:59:54.531088,Intersection_15,Wrong Lane,Bus,3
+V0062,2025-11-09 00:19:54.531088,Intersection_12,Red Light,Car,2
+V0063,2025-11-09 19:38:54.531088,Intersection_6,Speeding,Car,1
+V0064,2025-11-08 21:50:54.531088,Intersection_5,Wrong Lane,Bike,5
+V0065,2025-11-05 21:37:54.531088,Intersection_7,Speeding,Car,4
+V0066,2025-11-07 12:31:54.531088,Intersection_7,Wrong Lane,Car,1
+V0067,2025-11-10 04:16:54.531088,Intersection_3,No Helmet,Bike,2
+V0068,2025-11-08 21:52:54.531088,Intersection_3,Wrong Lane,Truck,5
+V0069,2025-11-05 07:29:54.531088,Intersection_5,Red Light,Truck,3
+V0070,2025-11-09 07:46:54.531088,Intersection_2,Red Light,Bus,1
+V0071,2025-11-05 04:54:54.531088,Intersection_14,Wrong Lane,Truck,4
+V0072,2025-11-04 05:59:54.531088,Intersection_4,No Helmet,Bus,5
+V0073,2025-11-10 06:24:54.531088,Intersection_3,Speeding,Truck,4
+V0074,2025-11-07 23:29:54.531088,Intersection_14,Red Light,Truck,1
+V0075,2025-11-08 02:14:54.531088,Intersection_3,No Helmet,Truck,2
+V0076,2025-11-07 07:52:54.531088,Intersection_2,No Helmet,Truck,3
+V0077,2025-11-10 08:50:54.531088,Intersection_13,No Helmet,Bus,3
+V0078,2025-11-06 16:50:54.531088,Intersection_2,Wrong Lane,Car,4
+V0079,2025-11-06 15:59:54.531088,Intersection_14,No Helmet,Car,4
+V0080,2025-11-05 17:55:54.531088,Intersection_5,Wrong Lane,Truck,4
+V0081,2025-11-04 23:52:54.531088,Intersection_15,Wrong Lane,Truck,3
+V0082,2025-11-10 05:22:54.531088,Intersection_11,Red Light,Car,3
+V0083,2025-11-06 19:10:54.531088,Intersection_18,No Helmet,Bike,4
+V0084,2025-11-07 13:17:54.531088,Intersection_8,No Helmet,Bike,1
+V0085,2025-11-10 00:44:54.531088,Intersection_1,Speeding,Bike,1
+V0086,2025-11-04 07:08:54.531088,Intersection_4,Red Light,Bus,2
+V0087,2025-11-03 22:06:54.531088,Intersection_11,No Helmet,Bike,3
+V0088,2025-11-10 07:11:54.531088,Intersection_19,Wrong Lane,Car,3
+V0089,2025-11-09 05:31:54.531088,Intersection_10,Wrong Lane,Bike,1
+V0090,2025-11-04 15:03:54.531088,Intersection_6,No Helmet,Bus,2
+V0091,2025-11-08 21:57:54.531088,Intersection_9,Wrong Lane,Car,5
+V0092,2025-11-06 01:39:54.531088,Intersection_19,Speeding,Truck,4
+V0093,2025-11-10 04:40:54.531088,Intersection_3,Wrong Lane,Truck,2
+V0094,2025-11-09 05:00:54.531088,Intersection_6,Speeding,Bus,4
+V0095,2025-11-08 03:35:54.531088,Intersection_20,Speeding,Bike,4
+V0096,2025-11-09 00:28:54.531424,Intersection_12,No Helmet,Truck,5
+V0097,2025-11-09 18:59:54.531424,Intersection_10,Speeding,Bike,2
+V0098,2025-11-08 03:10:54.531424,Intersection_18,Red Light,Bike,3
+V0099,2025-11-05 09:46:54.531424,Intersection_20,Red Light,Bus,5
+V0100,2025-11-05 21:23:54.531424,Intersection_5,Red Light,Car,2
+V0101,2025-11-09 20:35:54.531424,Intersection_12,Wrong Lane,Car,5
+V0102,2025-11-05 06:50:54.531424,Intersection_1,Red Light,Bike,5
+V0103,2025-11-06 01:36:54.531424,Intersection_10,Wrong Lane,Car,4
+V0104,2025-11-04 18:36:54.531424,Intersection_9,No Helmet,Truck,4
+V0105,2025-11-07 23:13:54.531424,Intersection_5,Speeding,Car,1
+V0106,2025-11-04 10:45:54.531424,Intersection_6,No Helmet,Bus,1
+V0107,2025-11-05 12:39:54.531424,Intersection_1,Red Light,Bike,4
+V0108,2025-11-04 07:08:54.531424,Intersection_20,Wrong Lane,Car,3
+V0109,2025-11-05 04:13:54.531424,Intersection_12,Wrong Lane,Truck,4
+V0110,2025-11-04 05:38:54.531424,Intersection_16,Wrong Lane,Car,2
+V0111,2025-11-06 12:07:54.531424,Intersection_13,No Helmet,Truck,2
+V0112,2025-11-06 05:35:54.531424,Intersection_12,Red Light,Car,3
+V0113,2025-11-05 20:10:54.531424,Intersection_14,No Helmet,Car,5
+V0114,2025-11-08 02:16:54.531424,Intersection_20,Speeding,Bike,1
+V0115,2025-11-05 08:59:54.531424,Intersection_5,Wrong Lane,Bike,3
+V0116,2025-11-04 11:11:54.531424,Intersection_14,Red Light,Bike,3
+V0117,2025-11-06 08:55:54.531424,Intersection_8,Speeding,Bike,5
+V0118,2025-11-05 15:25:54.531424,Intersection_12,No Helmet,Bike,2
+V0119,2025-11-04 05:08:54.531424,Intersection_11,Red Light,Truck,4
+V0120,2025-11-09 23:17:54.531424,Intersection_7,Speeding,Bike,3
+V0121,2025-11-07 15:57:54.531424,Intersection_3,Speeding,Car,2
+V0122,2025-11-06 19:16:54.531424,Intersection_4,Speeding,Bus,3
+V0123,2025-11-10 08:22:54.531424,Intersection_8,Speeding,Truck,3
+V0124,2025-11-04 02:18:54.531424,Intersection_9,Wrong Lane,Bus,5
+V0125,2025-11-05 10:23:54.531424,Intersection_2,Speeding,Truck,1
+V0126,2025-11-08 09:42:54.531424,Intersection_1,Speeding,Bike,5
+V0127,2025-11-05 14:20:54.531424,Intersection_17,Speeding,Car,4
+V0128,2025-11-09 13:00:54.531424,Intersection_6,Wrong Lane,Car,3
+V0129,2025-11-06 02:44:54.531424,Intersection_6,Speeding,Truck,1
+V0130,2025-11-04 01:55:54.531424,Intersection_2,Red Light,Truck,1
+V0131,2025-11-05 02:44:54.531424,Intersection_17,Red Light,Truck,5
+V0132,2025-11-04 05:45:54.531424,Intersection_12,No Helmet,Bus,5
+V0133,2025-11-09 01:11:54.531424,Intersection_16,Red Light,Car,2
+V0134,2025-11-10 09:08:54.531602,Intersection_10,Wrong Lane,Bus,2
+V0135,2025-11-07 22:07:54.531602,Intersection_2,Red Light,Car,1
+V0136,2025-11-09 10:48:54.531602,Intersection_19,Red Light,Bike,2
+V0137,2025-11-05 02:34:54.531602,Intersection_15,Red Light,Bus,3
+V0138,2025-11-05 07:21:54.531602,Intersection_16,Speeding,Truck,5
+V0139,2025-11-10 11:40:54.531602,Intersection_15,No Helmet,Car,2
+V0140,2025-11-07 16:30:54.531602,Intersection_17,No Helmet,Car,1
+V0141,2025-11-04 22:10:54.531602,Intersection_6,Wrong Lane,Bus,1
+V0142,2025-11-09 01:18:54.531602,Intersection_4,Red Light,Car,2
+V0143,2025-11-05 11:11:54.531602,Intersection_9,Wrong Lane,Truck,4
+V0144,2025-11-09 17:11:54.531602,Intersection_1,Wrong Lane,Car,1
+V0145,2025-11-06 13:16:54.531602,Intersection_20,Wrong Lane,Bike,5
+V0146,2025-11-07 02:37:54.531602,Intersection_19,No Helmet,Bike,1
+V0147,2025-11-10 10:47:54.531602,Intersection_8,Wrong Lane,Truck,2
+V0148,2025-11-04 07:36:54.531602,Intersection_15,Red Light,Car,3
+V0149,2025-11-06 18:28:54.531602,Intersection_16,Speeding,Bus,3
+V0150,2025-11-08 23:49:54.531602,Intersection_20,Red Light,Truck,1
+V0151,2025-11-06 09:43:54.531602,Intersection_2,Speeding,Bus,3
+V0152,2025-11-08 19:12:54.531602,Intersection_15,Wrong Lane,Truck,1
+V0153,2025-11-05 05:31:54.531602,Intersection_4,Wrong Lane,Truck,3
+V0154,2025-11-09 19:28:54.531602,Intersection_1,Red Light,Bike,3
+V0155,2025-11-05 22:35:54.531602,Intersection_19,Red Light,Bike,2
+V0156,2025-11-08 01:28:54.531602,Intersection_1,Red Light,Bike,1
+V0157,2025-11-10 01:15:54.531602,Intersection_19,Speeding,Truck,3
+V0158,2025-11-06 01:13:54.531602,Intersection_9,Speeding,Bike,3
+V0159,2025-11-08 14:48:54.531602,Intersection_9,Red Light,Bike,3
+V0160,2025-11-04 10:11:54.531602,Intersection_10,Wrong Lane,Car,1
+V0161,2025-11-09 18:05:54.531602,Intersection_7,No Helmet,Bus,4
+V0162,2025-11-05 10:42:54.531602,Intersection_1,No Helmet,Bus,4
+V0163,2025-11-06 07:11:54.531602,Intersection_6,Speeding,Bike,4
+V0164,2025-11-04 22:38:54.531602,Intersection_9,No Helmet,Truck,5
+V0165,2025-11-06 21:18:54.531602,Intersection_19,Red Light,Truck,2
+V0166,2025-11-05 01:03:54.531602,Intersection_8,Wrong Lane,Car,4
+V0167,2025-11-09 04:40:54.531602,Intersection_6,Speeding,Car,3
+V0168,2025-11-09 20:34:54.531602,Intersection_18,Wrong Lane,Bus,3
+V0169,2025-11-06 12:15:54.531602,Intersection_20,Red Light,Truck,5
+V0170,2025-11-08 22:35:54.531602,Intersection_20,Wrong Lane,Car,3
+V0171,2025-11-10 00:19:54.531602,Intersection_7,Speeding,Bus,5
+V0172,2025-11-04 02:05:54.531602,Intersection_19,Wrong Lane,Car,1
+V0173,2025-11-10 00:40:54.531602,Intersection_19,Speeding,Car,5
+V0174,2025-11-05 12:58:54.531602,Intersection_13,Speeding,Truck,4
+V0175,2025-11-09 19:29:54.531602,Intersection_16,Red Light,Bus,1
+V0176,2025-11-07 17:33:54.531602,Intersection_9,Speeding,Bus,1
+V0177,2025-11-09 11:57:54.531602,Intersection_1,Wrong Lane,Bus,2
+V0178,2025-11-05 09:54:54.531602,Intersection_13,Speeding,Bike,4
+V0179,2025-11-07 11:07:54.531602,Intersection_2,No Helmet,Car,1
+V0180,2025-11-05 11:19:54.531602,Intersection_12,No Helmet,Bus,2
+V0181,2025-11-07 10:26:54.531602,Intersection_20,Speeding,Bus,4
+V0182,2025-11-08 01:58:54.531602,Intersection_1,No Helmet,Truck,5
+V0183,2025-11-10 06:53:54.531602,Intersection_5,Speeding,Bike,4
+V0184,2025-11-04 06:38:54.531602,Intersection_9,Red Light,Truck,1
+V0185,2025-11-04 16:29:54.531602,Intersection_6,Red Light,Bike,5
+V0186,2025-11-10 07:02:54.531602,Intersection_3,Wrong Lane,Car,1
+V0187,2025-11-06 17:51:54.531602,Intersection_5,Speeding,Truck,4
+V0188,2025-11-09 10:16:54.531602,Intersection_4,No Helmet,Bike,4
+V0189,2025-11-08 02:58:54.531602,Intersection_16,Speeding,Bus,1
+V0190,2025-11-05 18:40:54.531602,Intersection_1,No Helmet,Bike,3
+V0191,2025-11-09 17:53:54.531602,Intersection_16,Red Light,Car,4
+V0192,2025-11-09 15:15:54.531602,Intersection_5,Red Light,Bus,2
+V0193,2025-11-04 21:04:54.531602,Intersection_20,Red Light,Bike,5
+V0194,2025-11-05 13:55:54.531602,Intersection_1,Red Light,Bike,2
+V0195,2025-11-07 09:28:54.531602,Intersection_2,Red Light,Truck,4
+V0196,2025-11-04 12:16:54.531602,Intersection_19,Wrong Lane,Truck,3
+V0197,2025-11-06 17:42:54.531602,Intersection_7,No Helmet,Car,3
+V0198,2025-11-07 23:26:54.531602,Intersection_16,Speeding,Bike,2
+V0199,2025-11-05 09:57:54.531602,Intersection_5,Speeding,Bike,4
+V0200,2025-11-05 00:21:54.531602,Intersection_2,Speeding,Bike,5
+V0201,2025-11-06 15:05:54.531602,Intersection_2,Red Light,Bike,5
+V0202,2025-11-08 03:04:54.531602,Intersection_11,Red Light,Truck,3
+V0203,2025-11-08 12:51:54.531602,Intersection_6,No Helmet,Bike,3
+V0204,2025-11-09 01:57:54.531602,Intersection_20,Wrong Lane,Bike,1
+V0205,2025-11-06 23:00:54.531602,Intersection_7,Red Light,Bike,4
+V0206,2025-11-09 16:59:54.531602,Intersection_4,No Helmet,Car,5
+V0207,2025-11-04 04:21:54.531602,Intersection_4,Red Light,Car,3
+V0208,2025-11-08 10:34:54.531602,Intersection_15,Wrong Lane,Truck,2
+V0209,2025-11-03 17:32:54.531602,Intersection_14,No Helmet,Truck,4
+V0210,2025-11-07 04:50:54.531602,Intersection_16,Wrong Lane,Car,3
+V0211,2025-11-08 07:11:54.531602,Intersection_15,Wrong Lane,Bus,5
+V0212,2025-11-09 02:01:54.531602,Intersection_15,Red Light,Truck,1
+V0213,2025-11-10 11:32:54.531602,Intersection_18,Speeding,Bus,5
+V0214,2025-11-05 01:37:54.531602,Intersection_3,Wrong Lane,Car,2
+V0215,2025-11-05 22:59:54.531602,Intersection_15,Red Light,Car,3
+V0216,2025-11-04 15:21:54.531602,Intersection_9,No Helmet,Bus,5
+V0217,2025-11-04 17:54:54.531602,Intersection_20,No Helmet,Truck,2
+V0218,2025-11-07 16:07:54.531602,Intersection_4,Wrong Lane,Bus,1
+V0219,2025-11-03 19:56:54.531602,Intersection_15,Red Light,Car,1
+V0220,2025-11-05 08:29:54.531602,Intersection_19,Speeding,Bike,5
+V0221,2025-11-07 20:19:54.531602,Intersection_13,No Helmet,Bike,3
+V0222,2025-11-05 04:38:54.531602,Intersection_3,Speeding,Bus,2
+V0223,2025-11-04 06:04:54.531602,Intersection_20,Wrong Lane,Car,2
+V0224,2025-11-07 18:06:54.531602,Intersection_10,No Helmet,Truck,3
+V0225,2025-11-06 07:15:54.531602,Intersection_15,Red Light,Bike,4
+V0226,2025-11-09 15:13:54.531602,Intersection_16,Speeding,Car,3
+V0227,2025-11-04 15:45:54.531602,Intersection_12,No Helmet,Car,5
+V0228,2025-11-06 06:32:54.531602,Intersection_18,No Helmet,Bus,2
+V0229,2025-11-07 17:42:54.531602,Intersection_13,No Helmet,Bike,3
+V0230,2025-11-03 23:47:54.531602,Intersection_2,Red Light,Truck,5
+V0231,2025-11-09 06:42:54.531602,Intersection_17,Red Light,Bike,3
+V0232,2025-11-05 22:31:54.531602,Intersection_9,No Helmet,Bus,3
+V0233,2025-11-06 18:22:54.531602,Intersection_10,Red Light,Car,3
+V0234,2025-11-04 17:24:54.531602,Intersection_10,Speeding,Car,2
+V0235,2025-11-09 09:54:54.531602,Intersection_19,Red Light,Truck,2
+V0236,2025-11-10 07:40:54.531602,Intersection_12,No Helmet,Bus,5
+V0237,2025-11-05 06:54:54.531602,Intersection_14,Speeding,Bike,1
+V0238,2025-11-08 14:53:54.531602,Intersection_6,Red Light,Bus,2
+V0239,2025-11-05 12:57:54.531602,Intersection_4,Red Light,Truck,5
+V0240,2025-11-10 13:38:54.531602,Intersection_14,Wrong Lane,Bike,2
+V0241,2025-11-04 21:47:54.531602,Intersection_11,Wrong Lane,Truck,4
+V0242,2025-11-05 17:07:54.531602,Intersection_15,Speeding,Truck,2
+V0243,2025-11-08 16:27:54.531602,Intersection_14,No Helmet,Car,5
+V0244,2025-11-10 11:07:54.531602,Intersection_17,No Helmet,Bus,4
+V0245,2025-11-07 00:19:54.531602,Intersection_8,Wrong Lane,Bus,4
+V0246,2025-11-08 20:11:54.531602,Intersection_12,Red Light,Truck,1
+V0247,2025-11-08 00:14:54.531602,Intersection_17,Red Light,Bus,1
+V0248,2025-11-07 17:43:54.531602,Intersection_5,Red Light,Bus,3
+V0249,2025-11-10 05:19:54.531602,Intersection_2,Wrong Lane,Bus,3
+V0250,2025-11-09 12:25:54.531602,Intersection_4,Red Light,Bike,5
+V0251,2025-11-05 12:05:54.531602,Intersection_14,Speeding,Car,1
+V0252,2025-11-10 11:54:54.531602,Intersection_20,No Helmet,Car,3
+V0253,2025-11-03 19:08:54.531602,Intersection_12,Wrong Lane,Car,5
+V0254,2025-11-06 18:00:54.531602,Intersection_2,Red Light,Bike,5
+V0255,2025-11-08 21:37:54.531602,Intersection_20,Speeding,Bike,5
+V0256,2025-11-10 06:51:54.531602,Intersection_6,No Helmet,Bus,4
+V0257,2025-11-08 22:35:54.531602,Intersection_18,No Helmet,Car,2
+V0258,2025-11-08 18:56:54.531602,Intersection_9,No Helmet,Bus,3
+V0259,2025-11-06 23:37:54.531602,Intersection_20,Wrong Lane,Bus,1
+V0260,2025-11-07 21:54:54.531602,Intersection_20,Red Light,Car,2
+V0261,2025-11-07 22:17:54.531602,Intersection_17,Red Light,Car,2
+V0262,2025-11-04 06:33:54.531602,Intersection_5,Speeding,Bus,4
+V0263,2025-11-07 06:54:54.531602,Intersection_5,Speeding,Car,2
+V0264,2025-11-05 00:14:54.531602,Intersection_8,No Helmet,Truck,5
+V0265,2025-11-08 17:38:54.531602,Intersection_6,Wrong Lane,Car,4
+V0266,2025-11-10 02:35:54.531602,Intersection_7,No Helmet,Bike,2
+V0267,2025-11-09 18:48:54.531602,Intersection_14,No Helmet,Car,5
+V0268,2025-11-04 16:44:54.531602,Intersection_14,Red Light,Car,5
+V0269,2025-11-08 10:16:54.531602,Intersection_14,Red Light,Bike,3
+V0270,2025-11-05 00:09:54.531602,Intersection_19,Red Light,Car,3
+V0271,2025-11-08 06:09:54.531602,Intersection_12,Red Light,Bus,2
+V0272,2025-11-08 18:52:54.531602,Intersection_1,Wrong Lane,Bus,3
+V0273,2025-11-10 05:43:54.531602,Intersection_18,Speeding,Truck,1
+V0274,2025-11-08 00:23:54.531602,Intersection_11,No Helmet,Truck,4
+V0275,2025-11-08 15:26:54.531602,Intersection_17,Speeding,Bike,1
+V0276,2025-11-08 14:18:54.531602,Intersection_10,Red Light,Car,1
+V0277,2025-11-09 02:54:54.531602,Intersection_11,Speeding,Bike,5
+V0278,2025-11-07 22:50:54.531602,Intersection_15,Red Light,Car,5
+V0279,2025-11-06 06:14:54.531602,Intersection_19,No Helmet,Truck,2
+V0280,2025-11-09 01:47:54.531602,Intersection_1,Speeding,Truck,3
+V0281,2025-11-07 01:24:54.531602,Intersection_4,No Helmet,Bus,3
+V0282,2025-11-03 17:58:54.531602,Intersection_2,No Helmet,Bike,5
+V0283,2025-11-08 05:58:54.531602,Intersection_16,Red Light,Bus,3
+V0284,2025-11-04 00:13:54.531602,Intersection_18,Wrong Lane,Bus,4
+V0285,2025-11-05 01:13:54.531602,Intersection_3,Speeding,Bike,5
+V0286,2025-11-09 21:45:54.531602,Intersection_19,Red Light,Bus,4
+V0287,2025-11-07 17:27:54.531602,Intersection_18,Speeding,Bus,2
+V0288,2025-11-07 12:09:54.531602,Intersection_16,Red Light,Bike,2
+V0289,2025-11-05 20:25:54.531602,Intersection_6,No Helmet,Bike,4
+V0290,2025-11-09 13:11:54.531602,Intersection_6,Wrong Lane,Bike,3
+V0291,2025-11-07 03:02:54.531602,Intersection_9,No Helmet,Car,2
+V0292,2025-11-09 00:36:54.531602,Intersection_6,No Helmet,Bike,5
+V0293,2025-11-08 21:59:54.531602,Intersection_8,Speeding,Truck,2
+V0294,2025-11-08 13:13:54.531602,Intersection_7,Wrong Lane,Bus,2
+V0295,2025-11-07 08:02:54.531602,Intersection_12,No Helmet,Bus,5
+V0296,2025-11-06 20:16:54.531602,Intersection_11,Red Light,Truck,4
+V0297,2025-11-06 19:57:54.531602,Intersection_11,Speeding,Bus,1
+V0298,2025-11-05 09:16:54.531602,Intersection_3,Wrong Lane,Car,5
+V0299,2025-11-07 17:57:54.531602,Intersection_13,Speeding,Bus,1
+V0300,2025-11-07 12:15:54.531602,Intersection_16,Speeding,Car,2
+V0301,2025-11-06 01:56:54.531602,Intersection_6,Wrong Lane,Bike,2
+V0302,2025-11-07 01:04:54.531602,Intersection_5,Speeding,Bus,3
+V0303,2025-11-09 05:09:54.531602,Intersection_17,Red Light,Car,4
+V0304,2025-11-04 19:45:54.531602,Intersection_16,Red Light,Truck,4
+V0305,2025-11-08 23:27:54.531602,Intersection_13,Red Light,Car,1
+V0306,2025-11-08 13:08:54.531602,Intersection_18,No Helmet,Bus,4
+V0307,2025-11-05 21:57:54.531602,Intersection_12,No Helmet,Bus,2
+V0308,2025-11-05 21:57:54.531602,Intersection_14,Red Light,Bike,5
+V0309,2025-11-06 01:18:54.531602,Intersection_19,Speeding,Car,1
+V0310,2025-11-08 21:04:54.531602,Intersection_2,Wrong Lane,Truck,2
+V0311,2025-11-08 07:37:54.531602,Intersection_10,Speeding,Truck,4
+V0312,2025-11-08 13:00:54.531602,Intersection_12,Speeding,Bike,2
+V0313,2025-11-09 00:35:54.531602,Intersection_2,Red Light,Bike,3
+V0314,2025-11-05 19:51:54.531602,Intersection_2,Wrong Lane,Bike,5
+V0315,2025-11-06 13:57:54.531602,Intersection_5,No Helmet,Car,2
+V0316,2025-11-08 15:35:54.531602,Intersection_20,Red Light,Bike,4
+V0317,2025-11-07 12:46:54.531602,Intersection_15,Wrong Lane,Bus,5
+V0318,2025-11-10 08:40:54.531602,Intersection_4,No Helmet,Bike,2
+V0319,2025-11-04 22:26:54.531602,Intersection_11,No Helmet,Bus,5
+V0320,2025-11-05 19:52:54.531602,Intersection_16,Wrong Lane,Bus,1
+V0321,2025-11-08 19:45:54.531602,Intersection_19,Wrong Lane,Truck,2
+V0322,2025-11-08 18:43:54.531602,Intersection_5,Wrong Lane,Truck,3
+V0323,2025-11-05 00:11:54.531602,Intersection_10,Speeding,Truck,1
+V0324,2025-11-04 13:32:54.531602,Intersection_10,Wrong Lane,Truck,4
+V0325,2025-11-06 00:13:54.531602,Intersection_15,No Helmet,Truck,3
+V0326,2025-11-09 21:14:54.531602,Intersection_9,No Helmet,Truck,5
+V0327,2025-11-05 23:06:54.531602,Intersection_18,No Helmet,Truck,1
+V0328,2025-11-08 09:07:54.531602,Intersection_2,Speeding,Car,2
+V0329,2025-11-03 16:22:54.531602,Intersection_4,Wrong Lane,Truck,2
+V0330,2025-11-10 09:15:54.531602,Intersection_17,No Helmet,Truck,2
+V0331,2025-11-04 13:16:54.531602,Intersection_13,No Helmet,Car,5
+V0332,2025-11-04 11:12:54.531602,Intersection_3,Red Light,Bus,5
+V0333,2025-11-08 06:45:54.531602,Intersection_10,Red Light,Truck,4
+V0334,2025-11-06 08:49:54.531602,Intersection_15,Speeding,Bike,4
+V0335,2025-11-09 13:10:54.531602,Intersection_14,Speeding,Bus,3
+V0336,2025-11-07 18:05:54.531602,Intersection_1,Red Light,Bus,2
+V0337,2025-11-04 18:49:54.531602,Intersection_15,Red Light,Car,5
+V0338,2025-11-07 21:44:54.531602,Intersection_11,Wrong Lane,Car,5
+V0339,2025-11-05 07:08:54.531602,Intersection_7,Speeding,Truck,3
+V0340,2025-11-04 17:07:54.531602,Intersection_7,No Helmet,Car,3
+V0341,2025-11-04 19:46:54.531602,Intersection_12,No Helmet,Car,2
+V0342,2025-11-07 11:00:54.531602,Intersection_10,Red Light,Car,1
+V0343,2025-11-09 16:36:54.531602,Intersection_14,Wrong Lane,Bus,1
+V0344,2025-11-10 04:54:54.531602,Intersection_5,Wrong Lane,Bike,5
+V0345,2025-11-05 00:06:54.531602,Intersection_20,Red Light,Truck,2
+V0346,2025-11-06 05:57:54.531602,Intersection_9,Red Light,Bike,5
+V0347,2025-11-10 11:55:54.531602,Intersection_9,Red Light,Bike,5
+V0348,2025-11-05 07:58:54.531602,Intersection_17,Wrong Lane,Bike,3
+V0349,2025-11-04 21:35:54.531602,Intersection_12,No Helmet,Car,1
+V0350,2025-11-06 05:55:54.531602,Intersection_14,Speeding,Bus,3
+V0351,2025-11-09 15:37:54.531602,Intersection_1,Wrong Lane,Bike,2
+V0352,2025-11-06 12:33:54.531602,Intersection_9,No Helmet,Bus,4
+V0353,2025-11-06 06:06:54.531602,Intersection_4,No Helmet,Truck,1
+V0354,2025-11-06 19:44:54.531602,Intersection_17,Red Light,Bus,5
+V0355,2025-11-03 23:41:54.531602,Intersection_12,Red Light,Truck,4
+V0356,2025-11-08 21:14:54.531602,Intersection_19,No Helmet,Bike,4
+V0357,2025-11-07 03:44:54.531602,Intersection_10,Red Light,Bike,3
+V0358,2025-11-10 07:07:54.531602,Intersection_1,No Helmet,Bus,1
+V0359,2025-11-08 17:59:54.531602,Intersection_20,Speeding,Bike,3
+V0360,2025-11-07 13:50:54.531602,Intersection_14,Wrong Lane,Bus,2
+V0361,2025-11-09 22:32:54.531602,Intersection_6,No Helmet,Bike,2
+V0362,2025-11-09 19:52:54.531602,Intersection_1,Speeding,Truck,3
+V0363,2025-11-09 16:56:54.531602,Intersection_14,Wrong Lane,Bus,4
+V0364,2025-11-05 00:54:54.531602,Intersection_6,No Helmet,Bus,3
+V0365,2025-11-03 19:01:54.531602,Intersection_9,Speeding,Truck,3
+V0366,2025-11-03 21:11:54.531602,Intersection_8,Wrong Lane,Bike,3
+V0367,2025-11-09 04:44:54.531602,Intersection_5,No Helmet,Bus,3
+V0368,2025-11-05 23:11:54.531602,Intersection_3,Wrong Lane,Bike,2
+V0369,2025-11-06 20:27:54.531602,Intersection_10,Red Light,Bike,2
+V0370,2025-11-08 23:00:54.531602,Intersection_13,Red Light,Bike,2
+V0371,2025-11-04 20:12:54.531602,Intersection_7,Wrong Lane,Bus,1
+V0372,2025-11-10 06:49:54.531602,Intersection_9,No Helmet,Car,1
+V0373,2025-11-04 00:07:54.531602,Intersection_13,Speeding,Truck,2
+V0374,2025-11-04 08:31:54.531602,Intersection_7,Red Light,Truck,4
+V0375,2025-11-10 09:37:54.531602,Intersection_16,No Helmet,Truck,1
+V0376,2025-11-06 10:10:54.531602,Intersection_14,Red Light,Truck,4
+V0377,2025-11-05 07:30:54.531602,Intersection_8,Speeding,Car,4
+V0378,2025-11-08 10:42:54.531602,Intersection_6,Speeding,Bus,4
+V0379,2025-11-04 13:48:54.531602,Intersection_9,Speeding,Bus,2
+V0380,2025-11-08 11:06:54.531602,Intersection_5,No Helmet,Bus,3
+V0381,2025-11-05 00:47:54.531602,Intersection_11,No Helmet,Bike,3
+V0382,2025-11-07 08:51:54.531602,Intersection_20,Speeding,Bus,2
+V0383,2025-11-04 07:24:54.531602,Intersection_8,Red Light,Bus,1
+V0384,2025-11-06 01:42:54.531602,Intersection_20,No Helmet,Bike,4
+V0385,2025-11-04 10:32:54.531602,Intersection_5,No Helmet,Car,3
+V0386,2025-11-09 17:56:54.531602,Intersection_1,Wrong Lane,Bus,1
+V0387,2025-11-07 19:30:54.531602,Intersection_20,No Helmet,Truck,4
+V0388,2025-11-09 16:12:54.531602,Intersection_20,Wrong Lane,Bus,1
+V0389,2025-11-04 00:04:54.531602,Intersection_8,Wrong Lane,Car,3
+V0390,2025-11-04 21:51:54.531602,Intersection_15,Speeding,Truck,2
+V0391,2025-11-06 10:43:54.531602,Intersection_18,No Helmet,Car,4
+V0392,2025-11-05 18:40:54.531602,Intersection_8,No Helmet,Bike,2
+V0393,2025-11-09 11:28:54.531602,Intersection_16,No Helmet,Car,5
+V0394,2025-11-10 10:46:54.531602,Intersection_17,No Helmet,Bike,3
+V0395,2025-11-05 16:50:54.531602,Intersection_10,Speeding,Bus,2
+V0396,2025-11-07 22:23:54.531602,Intersection_4,No Helmet,Bike,3
+V0397,2025-11-05 07:56:54.531602,Intersection_17,Red Light,Truck,1
+V0398,2025-11-04 04:15:54.531602,Intersection_10,Red Light,Bus,4
+V0399,2025-11-05 20:21:54.531602,Intersection_15,No Helmet,Car,5
+V0400,2025-11-06 14:00:54.531602,Intersection_16,Red Light,Truck,5
+V0401,2025-11-04 03:04:54.531602,Intersection_18,Wrong Lane,Bus,2
+V0402,2025-11-03 22:38:54.531602,Intersection_10,Wrong Lane,Bike,4
+V0403,2025-11-05 15:18:54.531602,Intersection_2,Speeding,Bike,3
+V0404,2025-11-04 00:31:54.531602,Intersection_10,No Helmet,Truck,1
+V0405,2025-11-04 07:43:54.531602,Intersection_3,No Helmet,Car,3
+V0406,2025-11-04 10:51:54.531602,Intersection_18,No Helmet,Bus,1
+V0407,2025-11-07 10:16:54.531602,Intersection_18,Speeding,Car,2
+V0408,2025-11-06 17:09:54.531602,Intersection_9,Speeding,Bike,3
+V0409,2025-11-05 21:47:54.531602,Intersection_8,No Helmet,Bus,3
+V0410,2025-11-04 00:46:54.531602,Intersection_9,Red Light,Car,2
+V0411,2025-11-06 01:54:54.531602,Intersection_12,No Helmet,Truck,1
+V0412,2025-11-04 02:57:54.531602,Intersection_8,Speeding,Car,4
+V0413,2025-11-05 01:48:54.531602,Intersection_12,Wrong Lane,Bus,2
+V0414,2025-11-05 05:11:54.531602,Intersection_4,Red Light,Bus,3
+V0415,2025-11-08 05:15:54.531602,Intersection_15,Speeding,Car,4
+V0416,2025-11-04 01:55:54.531602,Intersection_17,No Helmet,Bus,5
+V0417,2025-11-08 01:17:54.531602,Intersection_5,Speeding,Bike,2
+V0418,2025-11-10 10:24:54.531602,Intersection_5,Wrong Lane,Bike,5
+V0419,2025-11-09 03:02:54.531602,Intersection_7,Red Light,Car,1
+V0420,2025-11-10 09:10:54.531602,Intersection_13,Speeding,Car,3
+V0421,2025-11-05 06:05:54.531602,Intersection_7,Speeding,Truck,4
+V0422,2025-11-03 18:02:54.531602,Intersection_10,No Helmet,Bike,2
+V0423,2025-11-09 10:13:54.531602,Intersection_19,Wrong Lane,Truck,5
+V0424,2025-11-06 12:44:54.531602,Intersection_9,Speeding,Bus,5
+V0425,2025-11-06 17:30:54.531602,Intersection_14,Speeding,Car,2
+V0426,2025-11-04 18:22:54.531602,Intersection_20,Red Light,Truck,3
+V0427,2025-11-09 17:09:54.531602,Intersection_3,Red Light,Bus,3
+V0428,2025-11-07 19:51:54.531602,Intersection_2,No Helmet,Bus,1
+V0429,2025-11-08 09:18:54.531602,Intersection_7,Red Light,Car,1
+V0430,2025-11-09 09:54:54.531602,Intersection_2,Red Light,Bike,3
+V0431,2025-11-03 23:40:54.531602,Intersection_9,Wrong Lane,Bike,2
+V0432,2025-11-04 11:57:54.531602,Intersection_1,No Helmet,Bike,1
+V0433,2025-11-09 19:16:54.531602,Intersection_2,Red Light,Car,1
+V0434,2025-11-08 13:14:54.531602,Intersection_9,Speeding,Bike,3
+V0435,2025-11-09 09:09:54.531602,Intersection_9,No Helmet,Bike,1
+V0436,2025-11-05 23:48:54.531602,Intersection_15,Speeding,Bike,1
+V0437,2025-11-05 17:45:54.531602,Intersection_3,No Helmet,Bus,2
+V0438,2025-11-07 02:46:54.531602,Intersection_11,Wrong Lane,Bike,2
+V0439,2025-11-06 22:16:54.531602,Intersection_3,Wrong Lane,Bike,2
+V0440,2025-11-08 21:54:54.531602,Intersection_13,Wrong Lane,Bike,3
+V0441,2025-11-08 10:06:54.531602,Intersection_20,Red Light,Car,3
+V0442,2025-11-10 08:47:54.531602,Intersection_10,No Helmet,Bus,2
+V0443,2025-11-05 09:39:54.531602,Intersection_10,Wrong Lane,Bus,1
+V0444,2025-11-09 17:28:54.531602,Intersection_12,Wrong Lane,Bus,2
+V0445,2025-11-06 23:17:54.531602,Intersection_5,Wrong Lane,Bike,4
+V0446,2025-11-09 02:07:54.531602,Intersection_6,No Helmet,Bike,1
+V0447,2025-11-10 03:16:54.531602,Intersection_1,Red Light,Truck,1
+V0448,2025-11-09 23:29:54.531602,Intersection_13,Red Light,Bike,1
+V0449,2025-11-06 05:25:54.531602,Intersection_13,Wrong Lane,Car,4
+V0450,2025-11-09 10:19:54.531602,Intersection_18,Red Light,Car,5
+V0451,2025-11-04 22:04:54.531602,Intersection_1,Speeding,Bus,3
+V0452,2025-11-07 13:46:54.531602,Intersection_3,No Helmet,Truck,4
+V0453,2025-11-07 16:13:54.531602,Intersection_5,Wrong Lane,Bus,3
+V0454,2025-11-08 17:32:54.531602,Intersection_12,Red Light,Bike,5
+V0455,2025-11-08 02:05:54.531602,Intersection_7,No Helmet,Bus,2
+V0456,2025-11-04 08:23:54.531602,Intersection_11,Speeding,Bus,4
+V0457,2025-11-05 12:17:54.531602,Intersection_8,Speeding,Car,5
+V0458,2025-11-05 17:21:54.531602,Intersection_11,Speeding,Bus,3
+V0459,2025-11-06 19:25:54.531602,Intersection_7,No Helmet,Bus,4
+V0460,2025-11-05 20:18:54.531602,Intersection_17,Red Light,Car,5
+V0461,2025-11-10 00:46:54.531602,Intersection_2,Speeding,Bus,3
+V0462,2025-11-06 14:01:54.531602,Intersection_10,Speeding,Car,3
+V0463,2025-11-06 19:57:54.531602,Intersection_13,No Helmet,Car,4
+V0464,2025-11-08 08:28:54.531602,Intersection_17,No Helmet,Truck,2
+V0465,2025-11-08 00:01:54.531602,Intersection_20,Speeding,Truck,5
+V0466,2025-11-09 11:32:54.531602,Intersection_5,Speeding,Car,2
+V0467,2025-11-09 05:07:54.531602,Intersection_10,Red Light,Truck,1
+V0468,2025-11-10 08:42:54.531602,Intersection_20,Speeding,Bus,5
+V0469,2025-11-05 00:59:54.531602,Intersection_10,Speeding,Bike,4
+V0470,2025-11-06 10:12:54.531602,Intersection_9,Speeding,Bike,2
+V0471,2025-11-10 09:50:54.531602,Intersection_13,Wrong Lane,Bike,4
+V0472,2025-11-05 05:21:54.531602,Intersection_3,Red Light,Truck,4
+V0473,2025-11-10 01:12:54.531602,Intersection_9,Wrong Lane,Car,4
+V0474,2025-11-07 20:08:54.531602,Intersection_20,Wrong Lane,Car,1
+V0475,2025-11-04 14:19:54.531602,Intersection_20,Wrong Lane,Bike,5
+V0476,2025-11-05 11:35:54.531602,Intersection_16,Wrong Lane,Truck,1
+V0477,2025-11-07 08:40:54.531602,Intersection_9,Speeding,Bus,4
+V0478,2025-11-08 15:04:54.531602,Intersection_4,No Helmet,Truck,4
+V0479,2025-11-09 07:50:54.531602,Intersection_9,No Helmet,Car,1
+V0480,2025-11-06 22:26:54.531602,Intersection_3,Speeding,Car,4
+V0481,2025-11-06 06:40:54.531602,Intersection_20,Wrong Lane,Car,1
+V0482,2025-11-05 09:46:54.531602,Intersection_7,Wrong Lane,Car,4
+V0483,2025-11-05 13:44:54.531602,Intersection_5,No Helmet,Bike,1
+V0484,2025-11-09 01:14:54.531602,Intersection_4,Speeding,Bus,1
+V0485,2025-11-06 10:43:54.531602,Intersection_3,Wrong Lane,Truck,2
+V0486,2025-11-07 22:29:54.531602,Intersection_1,Speeding,Car,5
+V0487,2025-11-09 10:26:54.531602,Intersection_8,Speeding,Truck,3
+V0488,2025-11-07 02:20:54.531602,Intersection_16,Wrong Lane,Bus,5
+V0489,2025-11-04 20:26:54.531602,Intersection_16,Wrong Lane,Bike,5
+V0490,2025-11-04 23:29:54.531602,Intersection_11,Wrong Lane,Bus,2
+V0491,2025-11-06 01:05:54.531602,Intersection_8,Red Light,Bus,5
+V0492,2025-11-09 13:14:54.531602,Intersection_2,No Helmet,Truck,5
+V0493,2025-11-07 08:06:54.531602,Intersection_6,No Helmet,Car,1
+V0494,2025-11-07 20:08:54.531602,Intersection_5,No Helmet,Car,5
+V0495,2025-11-06 02:16:54.531602,Intersection_19,Red Light,Bus,2
+V0496,2025-11-04 22:23:54.531602,Intersection_3,Speeding,Bike,5
+V0497,2025-11-06 19:03:54.531602,Intersection_19,Wrong Lane,Car,4
+V0498,2025-11-08 15:26:54.531602,Intersection_7,No Helmet,Car,4
+V0499,2025-11-09 19:23:54.531602,Intersection_20,Speeding,Bus,3
+V0500,2025-11-09 03:34:54.531602,Intersection_17,Speeding,Car,2
+V0501,2025-11-05 13:58:54.531602,Intersection_14,Red Light,Bus,5
+V0502,2025-11-09 02:56:54.531602,Intersection_20,Wrong Lane,Car,3
+V0503,2025-11-06 10:54:54.531602,Intersection_17,Speeding,Truck,3
+V0504,2025-11-04 07:26:54.531602,Intersection_20,Wrong Lane,Bike,4
+V0505,2025-11-06 03:34:54.531602,Intersection_20,Wrong Lane,Bike,5
+V0506,2025-11-07 22:00:54.531602,Intersection_20,Red Light,Bike,2
+V0507,2025-11-08 08:10:54.531602,Intersection_17,No Helmet,Truck,3
+V0508,2025-11-06 14:04:54.531602,Intersection_17,No Helmet,Car,1
+V0509,2025-11-05 14:43:54.531602,Intersection_12,Speeding,Car,5
+V0510,2025-11-07 03:02:54.531602,Intersection_18,Wrong Lane,Car,5
+V0511,2025-11-05 01:40:54.531602,Intersection_13,Speeding,Bike,5
+V0512,2025-11-07 15:56:54.531602,Intersection_18,No Helmet,Bike,5
+V0513,2025-11-04 13:16:54.531602,Intersection_3,Red Light,Bus,2
+V0514,2025-11-08 07:35:54.531602,Intersection_8,Red Light,Truck,4
+V0515,2025-11-07 20:52:54.531602,Intersection_12,Red Light,Truck,2
+V0516,2025-11-07 22:25:54.531602,Intersection_9,Red Light,Car,2
+V0517,2025-11-08 04:10:54.531602,Intersection_10,Red Light,Car,2
+V0518,2025-11-08 22:53:54.531602,Intersection_14,Wrong Lane,Bus,5
+V0519,2025-11-04 14:53:54.531602,Intersection_20,No Helmet,Truck,2
+V0520,2025-11-06 18:37:54.531602,Intersection_9,No Helmet,Car,3
+V0521,2025-11-03 16:57:54.531602,Intersection_8,Wrong Lane,Bus,4
+V0522,2025-11-08 04:47:54.531602,Intersection_15,Red Light,Truck,3
+V0523,2025-11-04 02:08:54.531602,Intersection_20,Wrong Lane,Car,3
+V0524,2025-11-04 08:15:54.531602,Intersection_11,Red Light,Bus,3
+V0525,2025-11-09 10:17:54.531602,Intersection_16,Red Light,Bus,4
+V0526,2025-11-06 07:49:54.531602,Intersection_6,Wrong Lane,Bus,2
+V0527,2025-11-03 21:20:54.531602,Intersection_18,Wrong Lane,Car,4
+V0528,2025-11-10 10:30:54.531602,Intersection_7,Speeding,Truck,4
+V0529,2025-11-04 06:28:54.531602,Intersection_13,No Helmet,Bike,4
+V0530,2025-11-09 22:23:54.531602,Intersection_14,Red Light,Truck,3
+V0531,2025-11-04 00:32:54.531602,Intersection_20,Wrong Lane,Bike,2
+V0532,2025-11-07 02:16:54.531602,Intersection_8,No Helmet,Car,5
+V0533,2025-11-07 06:13:54.531602,Intersection_3,Wrong Lane,Bus,5
+V0534,2025-11-05 19:28:54.531602,Intersection_13,No Helmet,Bike,2
+V0535,2025-11-06 14:22:54.531602,Intersection_5,Speeding,Car,3
+V0536,2025-11-08 10:53:54.531602,Intersection_10,Red Light,Bus,5
+V0537,2025-11-05 10:57:54.531602,Intersection_15,No Helmet,Car,5
+V0538,2025-11-06 08:23:54.531602,Intersection_9,No Helmet,Truck,1
+V0539,2025-11-03 20:20:54.531602,Intersection_2,No Helmet,Car,5
+V0540,2025-11-03 17:39:54.531602,Intersection_16,Speeding,Bike,3
+V0541,2025-11-06 22:59:54.531602,Intersection_10,Speeding,Truck,4
+V0542,2025-11-06 00:08:54.531602,Intersection_19,Wrong Lane,Truck,5
+V0543,2025-11-09 18:27:54.531602,Intersection_18,No Helmet,Car,3
+V0544,2025-11-09 20:09:54.531602,Intersection_3,No Helmet,Car,5
+V0545,2025-11-04 03:14:54.531602,Intersection_2,Wrong Lane,Truck,2
+V0546,2025-11-10 07:20:54.531602,Intersection_11,Wrong Lane,Bus,4
+V0547,2025-11-10 11:08:54.531602,Intersection_16,No Helmet,Bus,4
+V0548,2025-11-10 01:10:54.531602,Intersection_10,Speeding,Truck,3
+V0549,2025-11-08 15:59:54.531602,Intersection_5,No Helmet,Bus,4
+V0550,2025-11-05 02:51:54.531602,Intersection_13,Wrong Lane,Bus,5
+V0551,2025-11-06 18:47:54.531602,Intersection_4,No Helmet,Bike,3
+V0552,2025-11-04 01:59:54.531602,Intersection_20,Wrong Lane,Bus,2
+V0553,2025-11-04 08:48:54.531602,Intersection_8,Wrong Lane,Bus,5
+V0554,2025-11-06 13:49:54.531602,Intersection_5,Speeding,Bike,1
+V0555,2025-11-06 05:16:54.531602,Intersection_5,Speeding,Car,3
+V0556,2025-11-08 11:51:54.531602,Intersection_6,Red Light,Truck,3
+V0557,2025-11-04 09:37:54.531602,Intersection_3,Red Light,Bus,4
+V0558,2025-11-09 14:05:54.531602,Intersection_2,Wrong Lane,Truck,5
+V0559,2025-11-06 04:24:54.531602,Intersection_18,No Helmet,Truck,1
+V0560,2025-11-05 15:07:54.531602,Intersection_5,Wrong Lane,Truck,3
+V0561,2025-11-08 06:49:54.531602,Intersection_5,Wrong Lane,Truck,3
+V0562,2025-11-05 04:18:54.531602,Intersection_4,Speeding,Truck,4
+V0563,2025-11-10 07:49:54.531602,Intersection_19,Wrong Lane,Car,3
+V0564,2025-11-05 05:56:54.531602,Intersection_12,Wrong Lane,Car,1
+V0565,2025-11-09 03:11:54.531602,Intersection_5,Speeding,Car,3
+V0566,2025-11-08 16:37:54.531602,Intersection_2,Speeding,Car,1
+V0567,2025-11-05 15:18:54.531602,Intersection_19,No Helmet,Bike,5
+V0568,2025-11-04 12:35:54.531602,Intersection_9,No Helmet,Truck,3
+V0569,2025-11-04 06:26:54.531602,Intersection_14,Red Light,Bus,2
+V0570,2025-11-08 02:23:54.531602,Intersection_9,Wrong Lane,Truck,5
+V0571,2025-11-08 05:42:54.531602,Intersection_4,Wrong Lane,Truck,3
+V0572,2025-11-08 10:38:54.531602,Intersection_8,Red Light,Bus,2
+V0573,2025-11-04 02:21:54.531602,Intersection_15,No Helmet,Truck,4
+V0574,2025-11-05 16:55:54.531602,Intersection_1,Speeding,Bike,4
+V0575,2025-11-09 06:16:54.531602,Intersection_11,No Helmet,Car,1
+V0576,2025-11-05 03:35:54.531602,Intersection_14,Speeding,Truck,4
+V0577,2025-11-07 18:49:54.531602,Intersection_7,Red Light,Car,3
+V0578,2025-11-08 14:14:54.531602,Intersection_12,Wrong Lane,Bike,3
+V0579,2025-11-06 16:14:54.531602,Intersection_16,No Helmet,Truck,4
+V0580,2025-11-06 20:22:54.531602,Intersection_5,Speeding,Bus,3
+V0581,2025-11-05 21:38:54.531602,Intersection_12,No Helmet,Bike,5
+V0582,2025-11-04 10:31:54.531602,Intersection_4,Red Light,Truck,5
+V0583,2025-11-09 17:40:54.531602,Intersection_10,Red Light,Car,1
+V0584,2025-11-05 10:47:54.531602,Intersection_16,No Helmet,Car,3
+V0585,2025-11-06 20:14:54.531602,Intersection_12,Wrong Lane,Car,3
+V0586,2025-11-05 10:58:54.531602,Intersection_6,Red Light,Bike,1
+V0587,2025-11-04 20:31:54.531602,Intersection_2,Wrong Lane,Bus,2
+V0588,2025-11-08 21:52:54.531602,Intersection_8,Red Light,Car,5
+V0589,2025-11-05 05:41:54.531602,Intersection_2,Red Light,Bus,4
+V0590,2025-11-04 08:33:54.531602,Intersection_2,No Helmet,Bus,3
+V0591,2025-11-07 15:49:54.531602,Intersection_18,Speeding,Truck,4
+V0592,2025-11-06 12:24:54.531602,Intersection_18,Wrong Lane,Car,4
+V0593,2025-11-06 06:00:54.531602,Intersection_1,Red Light,Car,1
+V0594,2025-11-08 09:42:54.531602,Intersection_12,Wrong Lane,Bus,5
+V0595,2025-11-08 21:04:54.531602,Intersection_4,Speeding,Bus,5
+V0596,2025-11-05 09:49:54.531602,Intersection_18,Red Light,Bus,4
+V0597,2025-11-06 23:30:54.531602,Intersection_9,Wrong Lane,Bike,4
+V0598,2025-11-08 20:35:54.531602,Intersection_6,Wrong Lane,Truck,2
+V0599,2025-11-07 18:16:54.531602,Intersection_8,No Helmet,Truck,5
+V0600,2025-11-06 11:37:54.531602,Intersection_14,Wrong Lane,Truck,2
+V0601,2025-11-04 00:34:54.531602,Intersection_9,Wrong Lane,Truck,5
+V0602,2025-11-06 02:25:54.531602,Intersection_19,Wrong Lane,Truck,4
+V0603,2025-11-06 05:37:54.531602,Intersection_3,Speeding,Bus,5
+V0604,2025-11-04 06:45:54.531602,Intersection_13,No Helmet,Bike,4
+V0605,2025-11-09 02:28:54.531602,Intersection_5,Wrong Lane,Bus,2
+V0606,2025-11-05 07:28:54.531602,Intersection_5,Wrong Lane,Car,1
+V0607,2025-11-09 01:57:54.531602,Intersection_4,Wrong Lane,Car,3
+V0608,2025-11-10 12:08:54.531602,Intersection_15,No Helmet,Bike,5
+V0609,2025-11-06 13:59:54.531602,Intersection_19,No Helmet,Truck,2
+V0610,2025-11-06 20:42:54.531602,Intersection_18,Wrong Lane,Car,5
+V0611,2025-11-07 13:12:54.531602,Intersection_5,Wrong Lane,Bike,1
+V0612,2025-11-10 12:28:54.531602,Intersection_6,Red Light,Bus,5
+V0613,2025-11-10 13:27:54.531602,Intersection_12,Red Light,Truck,1
+V0614,2025-11-07 11:55:54.531602,Intersection_8,Wrong Lane,Bus,2
+V0615,2025-11-04 09:35:54.531602,Intersection_11,Wrong Lane,Truck,2
+V0616,2025-11-08 13:31:54.531602,Intersection_19,Wrong Lane,Bus,2
+V0617,2025-11-06 18:45:54.531602,Intersection_1,Wrong Lane,Bus,2
+V0618,2025-11-08 06:03:54.531602,Intersection_18,Wrong Lane,Car,1
+V0619,2025-11-04 15:31:54.531602,Intersection_15,Speeding,Truck,4
+V0620,2025-11-03 18:31:54.531602,Intersection_7,No Helmet,Car,1
+V0621,2025-11-07 02:23:54.531602,Intersection_6,Wrong Lane,Truck,1
+V0622,2025-11-05 23:20:54.531602,Intersection_19,Speeding,Bike,3
+V0623,2025-11-05 13:28:54.531602,Intersection_10,Red Light,Car,1
+V0624,2025-11-10 13:57:54.531602,Intersection_1,Red Light,Bike,3
+V0625,2025-11-08 21:54:54.531602,Intersection_5,Red Light,Truck,1
+V0626,2025-11-10 11:11:54.531602,Intersection_20,Wrong Lane,Bus,3
+V0627,2025-11-05 10:22:54.531602,Intersection_2,Wrong Lane,Bike,5
+V0628,2025-11-08 16:08:54.531602,Intersection_3,Red Light,Bus,1
+V0629,2025-11-10 00:08:54.531602,Intersection_18,Wrong Lane,Car,5
+V0630,2025-11-06 03:58:54.531602,Intersection_9,Red Light,Truck,5
+V0631,2025-11-04 17:29:54.531602,Intersection_14,Wrong Lane,Bike,1
+V0632,2025-11-08 22:26:54.531602,Intersection_7,No Helmet,Car,4
+V0633,2025-11-07 20:58:54.531602,Intersection_4,Speeding,Bus,1
+V0634,2025-11-05 20:37:54.531602,Intersection_1,Red Light,Bus,1
+V0635,2025-11-05 19:28:54.531602,Intersection_18,Wrong Lane,Bus,3
+V0636,2025-11-07 06:27:54.531602,Intersection_18,Red Light,Truck,2
+V0637,2025-11-08 16:43:54.531602,Intersection_8,Red Light,Car,2
+V0638,2025-11-03 19:00:54.531602,Intersection_4,Speeding,Bike,5
+V0639,2025-11-10 04:11:54.531602,Intersection_14,Red Light,Truck,5
+V0640,2025-11-04 05:43:54.531602,Intersection_10,Red Light,Truck,5
+V0641,2025-11-05 00:25:54.531602,Intersection_20,Red Light,Bus,2
+V0642,2025-11-04 08:08:54.531602,Intersection_14,No Helmet,Truck,5
+V0643,2025-11-04 16:37:54.531602,Intersection_18,Red Light,Bus,4
+V0644,2025-11-06 12:37:54.531602,Intersection_16,Wrong Lane,Bike,1
+V0645,2025-11-06 03:54:54.531602,Intersection_11,Red Light,Truck,4
+V0646,2025-11-05 16:21:54.531602,Intersection_2,Red Light,Bike,3
+V0647,2025-11-08 03:41:54.531602,Intersection_1,Speeding,Truck,2
+V0648,2025-11-08 08:22:54.531602,Intersection_15,No Helmet,Car,3
+V0649,2025-11-05 12:13:54.531602,Intersection_18,Speeding,Bike,4
+V0650,2025-11-09 15:26:54.531602,Intersection_20,Red Light,Bus,1
+V0651,2025-11-06 16:09:54.531602,Intersection_7,Red Light,Bus,2
+V0652,2025-11-05 23:36:54.531602,Intersection_5,Wrong Lane,Bike,1
+V0653,2025-11-05 18:27:54.531602,Intersection_8,Wrong Lane,Car,2
+V0654,2025-11-10 04:29:54.531602,Intersection_15,No Helmet,Truck,2
+V0655,2025-11-06 16:54:54.531602,Intersection_12,Speeding,Bike,2
+V0656,2025-11-04 04:11:54.531602,Intersection_3,Red Light,Truck,4
+V0657,2025-11-05 19:32:54.531602,Intersection_18,Speeding,Bus,3
+V0658,2025-11-04 16:58:54.531602,Intersection_11,Wrong Lane,Truck,1
+V0659,2025-11-08 14:10:54.531602,Intersection_5,Red Light,Truck,3
+V0660,2025-11-04 15:01:54.531602,Intersection_10,No Helmet,Bus,2
+V0661,2025-11-05 15:58:54.531602,Intersection_6,Speeding,Car,4
+V0662,2025-11-07 12:43:54.531602,Intersection_6,Speeding,Truck,3
+V0663,2025-11-04 07:01:54.531602,Intersection_4,Red Light,Car,2
+V0664,2025-11-07 11:08:54.531602,Intersection_14,Speeding,Car,3
+V0665,2025-11-07 01:46:54.531602,Intersection_5,No Helmet,Truck,2
+V0666,2025-11-09 11:29:54.531602,Intersection_9,Wrong Lane,Bike,5
+V0667,2025-11-08 20:47:54.531602,Intersection_18,Speeding,Bus,3
+V0668,2025-11-07 03:31:54.531602,Intersection_6,Speeding,Bike,3
+V0669,2025-11-04 17:24:54.531602,Intersection_14,Speeding,Bus,5
+V0670,2025-11-05 13:00:54.531602,Intersection_13,Wrong Lane,Bus,3
+V0671,2025-11-09 07:31:54.531602,Intersection_6,No Helmet,Bike,2
+V0672,2025-11-06 07:33:54.531602,Intersection_15,No Helmet,Bike,1
+V0673,2025-11-03 20:24:54.531602,Intersection_16,Red Light,Bike,4
+V0674,2025-11-09 03:20:54.531602,Intersection_16,Red Light,Car,1
+V0675,2025-11-07 03:58:54.531602,Intersection_20,Red Light,Bus,4
+V0676,2025-11-05 05:35:54.531602,Intersection_4,Speeding,Car,1
+V0677,2025-11-07 06:11:54.531602,Intersection_14,Wrong Lane,Truck,4
+V0678,2025-11-10 02:34:54.531602,Intersection_16,Speeding,Car,1
+V0679,2025-11-06 18:10:54.531602,Intersection_7,No Helmet,Bus,3
+V0680,2025-11-09 13:59:54.531602,Intersection_2,Wrong Lane,Bike,1
+V0681,2025-11-09 03:00:54.531602,Intersection_15,Speeding,Car,1
+V0682,2025-11-04 01:53:54.531602,Intersection_11,Speeding,Truck,1
+V0683,2025-11-10 13:07:54.531602,Intersection_10,Red Light,Bike,3
+V0684,2025-11-05 09:20:54.531602,Intersection_19,No Helmet,Truck,3
+V0685,2025-11-09 01:46:54.531602,Intersection_19,Wrong Lane,Bus,4
+V0686,2025-11-09 15:25:54.531602,Intersection_1,Wrong Lane,Truck,4
+V0687,2025-11-04 09:29:54.531602,Intersection_20,No Helmet,Bike,1
+V0688,2025-11-08 16:36:54.531602,Intersection_5,Speeding,Bus,5
+V0689,2025-11-10 01:25:54.531602,Intersection_12,No Helmet,Truck,2
+V0690,2025-11-04 22:17:54.531602,Intersection_11,Speeding,Bike,4
+V0691,2025-11-05 12:41:54.531602,Intersection_9,Red Light,Bus,1
+V0692,2025-11-08 00:02:54.531602,Intersection_14,Speeding,Bike,3
+V0693,2025-11-06 16:38:54.531602,Intersection_3,Wrong Lane,Bus,4
+V0694,2025-11-07 06:04:54.531602,Intersection_6,Wrong Lane,Bus,5
+V0695,2025-11-10 06:21:54.531602,Intersection_9,No Helmet,Car,3
+V0696,2025-11-10 07:05:54.531602,Intersection_8,Red Light,Car,2
+V0697,2025-11-03 22:03:54.531602,Intersection_8,Speeding,Bus,4
+V0698,2025-11-06 10:09:54.531602,Intersection_11,Wrong Lane,Bike,5
+V0699,2025-11-05 17:41:54.531602,Intersection_18,No Helmet,Bus,4
+V0700,2025-11-10 00:11:54.531602,Intersection_13,Speeding,Truck,5
+V0701,2025-11-04 17:30:54.531602,Intersection_15,Wrong Lane,Truck,5
+V0702,2025-11-10 02:07:54.531602,Intersection_19,Speeding,Truck,2
+V0703,2025-11-06 09:44:54.531602,Intersection_5,Wrong Lane,Bike,1
+V0704,2025-11-06 17:17:54.531602,Intersection_2,Speeding,Bike,4
+V0705,2025-11-06 12:42:54.531602,Intersection_9,Wrong Lane,Truck,3
+V0706,2025-11-04 09:21:54.531602,Intersection_7,Wrong Lane,Bus,3
+V0707,2025-11-07 07:57:54.531602,Intersection_19,Speeding,Bus,3
+V0708,2025-11-05 16:03:54.531602,Intersection_2,Speeding,Truck,4
+V0709,2025-11-09 12:49:54.531602,Intersection_4,Speeding,Car,2
+V0710,2025-11-03 23:53:54.531602,Intersection_6,Wrong Lane,Car,1
+V0711,2025-11-09 10:06:54.531602,Intersection_18,Speeding,Bike,1
+V0712,2025-11-05 09:40:54.531602,Intersection_19,Wrong Lane,Car,2
+V0713,2025-11-05 22:59:54.531602,Intersection_18,Wrong Lane,Truck,1
+V0714,2025-11-05 01:28:54.531602,Intersection_7,Speeding,Bike,5
+V0715,2025-11-07 23:51:54.531602,Intersection_11,No Helmet,Bus,1
+V0716,2025-11-04 19:14:54.531602,Intersection_3,Speeding,Truck,4
+V0717,2025-11-09 16:25:54.531602,Intersection_13,Wrong Lane,Truck,1
+V0718,2025-11-05 13:49:54.531602,Intersection_11,Speeding,Bike,4
+V0719,2025-11-05 15:37:54.531602,Intersection_17,Wrong Lane,Bus,1
+V0720,2025-11-09 08:39:54.531602,Intersection_18,Wrong Lane,Truck,4
+V0721,2025-11-03 21:59:54.531602,Intersection_14,Speeding,Truck,3
+V0722,2025-11-08 22:18:54.531602,Intersection_19,Wrong Lane,Bike,1
+V0723,2025-11-09 16:11:54.531602,Intersection_18,Speeding,Truck,5
+V0724,2025-11-08 15:42:54.531602,Intersection_20,Wrong Lane,Bus,4
+V0725,2025-11-03 18:31:54.531602,Intersection_3,Wrong Lane,Truck,4
+V0726,2025-11-10 09:55:54.531602,Intersection_1,Speeding,Bus,1
+V0727,2025-11-03 20:31:54.531602,Intersection_14,No Helmet,Car,2
+V0728,2025-11-05 22:14:54.531602,Intersection_10,Wrong Lane,Car,3
+V0729,2025-11-08 07:43:54.531602,Intersection_8,Speeding,Truck,4
+V0730,2025-11-09 19:40:54.531602,Intersection_16,Red Light,Bus,1
+V0731,2025-11-06 19:59:54.531602,Intersection_8,Red Light,Bus,2
+V0732,2025-11-06 18:05:54.531602,Intersection_11,Speeding,Bus,2
+V0733,2025-11-06 14:00:54.531602,Intersection_2,No Helmet,Bike,4
+V0734,2025-11-09 14:03:54.531602,Intersection_6,Speeding,Bus,2
+V0735,2025-11-03 19:47:54.531602,Intersection_8,Wrong Lane,Truck,2
+V0736,2025-11-05 01:03:54.531602,Intersection_10,Speeding,Bus,5
+V0737,2025-11-08 05:25:54.531602,Intersection_5,Wrong Lane,Bike,4
+V0738,2025-11-09 17:15:54.531602,Intersection_10,Speeding,Car,1
+V0739,2025-11-07 08:18:54.531602,Intersection_3,Speeding,Bus,2
+V0740,2025-11-06 18:03:54.531602,Intersection_12,No Helmet,Bike,4
+V0741,2025-11-08 09:37:54.531602,Intersection_16,Wrong Lane,Bike,5
+V0742,2025-11-07 09:02:54.531602,Intersection_11,Wrong Lane,Car,5
+V0743,2025-11-08 16:33:54.531602,Intersection_9,Speeding,Truck,2
+V0744,2025-11-04 00:21:54.531602,Intersection_15,Speeding,Truck,3
+V0745,2025-11-04 04:15:54.531602,Intersection_16,Wrong Lane,Truck,5
+V0746,2025-11-04 12:17:54.531602,Intersection_11,No Helmet,Truck,1
+V0747,2025-11-07 05:32:54.531602,Intersection_7,No Helmet,Truck,2
+V0748,2025-11-04 18:07:54.531602,Intersection_11,Speeding,Truck,1
+V0749,2025-11-08 16:52:54.531602,Intersection_8,Red Light,Bus,1
+V0750,2025-11-05 17:56:54.531602,Intersection_11,Wrong Lane,Truck,5
+V0751,2025-11-05 19:31:54.531602,Intersection_9,Wrong Lane,Car,2
+V0752,2025-11-04 22:50:54.531602,Intersection_6,Wrong Lane,Bike,4
+V0753,2025-11-10 04:34:54.531602,Intersection_18,Speeding,Truck,1
+V0754,2025-11-05 22:39:54.531602,Intersection_17,Speeding,Truck,1
+V0755,2025-11-06 08:45:54.531602,Intersection_3,Wrong Lane,Bus,1
+V0756,2025-11-05 10:06:54.531602,Intersection_4,Speeding,Bus,5
+V0757,2025-11-06 14:11:54.531602,Intersection_4,Wrong Lane,Bus,4
+V0758,2025-11-04 20:03:54.531602,Intersection_19,Speeding,Bike,4
+V0759,2025-11-04 17:33:54.531602,Intersection_17,Wrong Lane,Bike,2
+V0760,2025-11-09 09:59:54.531602,Intersection_4,Speeding,Truck,4
+V0761,2025-11-08 15:39:54.531602,Intersection_5,Wrong Lane,Truck,2
+V0762,2025-11-10 04:57:54.531602,Intersection_4,Speeding,Bus,4
+V0763,2025-11-04 16:56:54.531602,Intersection_19,No Helmet,Truck,5
+V0764,2025-11-09 04:21:54.531602,Intersection_9,No Helmet,Truck,4
+V0765,2025-11-10 12:35:54.531602,Intersection_3,Wrong Lane,Bus,3
+V0766,2025-11-09 02:15:54.531602,Intersection_17,No Helmet,Car,1
+V0767,2025-11-05 15:19:54.531602,Intersection_3,No Helmet,Bus,5
+V0768,2025-11-05 05:13:54.531602,Intersection_12,Red Light,Bike,3
+V0769,2025-11-07 23:39:54.531602,Intersection_6,No Helmet,Bus,3
+V0770,2025-11-10 01:56:54.531602,Intersection_6,Red Light,Bus,5
+V0771,2025-11-09 12:25:54.531602,Intersection_18,Speeding,Bus,2
+V0772,2025-11-08 03:13:54.531602,Intersection_14,Wrong Lane,Car,3
+V0773,2025-11-06 01:00:54.531602,Intersection_1,Red Light,Bus,5
+V0774,2025-11-09 21:01:54.531602,Intersection_18,Speeding,Bus,5
+V0775,2025-11-06 21:47:54.531602,Intersection_14,No Helmet,Bus,4
+V0776,2025-11-04 14:20:54.531602,Intersection_7,No Helmet,Bike,4
+V0777,2025-11-05 03:58:54.531602,Intersection_20,Wrong Lane,Bike,3
+V0778,2025-11-06 01:17:54.531602,Intersection_7,Speeding,Bus,2
+V0779,2025-11-08 16:53:54.531602,Intersection_14,No Helmet,Truck,4
+V0780,2025-11-03 22:57:54.531602,Intersection_16,Wrong Lane,Bus,4
+V0781,2025-11-07 19:35:54.531602,Intersection_3,Red Light,Bus,5
+V0782,2025-11-05 11:14:54.531602,Intersection_17,Red Light,Car,5
+V0783,2025-11-03 17:56:54.531602,Intersection_9,Speeding,Bus,2
+V0784,2025-11-03 19:41:54.531602,Intersection_7,Speeding,Car,1
+V0785,2025-11-04 02:03:54.531602,Intersection_3,Wrong Lane,Car,5
+V0786,2025-11-04 03:09:54.531602,Intersection_5,Red Light,Truck,4
+V0787,2025-11-08 21:54:54.531602,Intersection_14,Wrong Lane,Bike,4
+V0788,2025-11-05 00:13:54.531602,Intersection_1,Wrong Lane,Truck,3
+V0789,2025-11-06 02:10:54.531602,Intersection_17,Red Light,Car,5
+V0790,2025-11-10 13:58:54.531602,Intersection_5,Wrong Lane,Bike,5
+V0791,2025-11-04 20:42:54.531602,Intersection_12,Speeding,Bus,2
+V0792,2025-11-09 02:49:54.531602,Intersection_14,No Helmet,Truck,3
+V0793,2025-11-07 07:46:54.531602,Intersection_16,Red Light,Bike,1
+V0794,2025-11-04 15:49:54.531602,Intersection_5,No Helmet,Car,4
+V0795,2025-11-09 17:24:54.531602,Intersection_8,Speeding,Bus,2
+V0796,2025-11-04 07:57:54.531602,Intersection_9,Wrong Lane,Bus,5
+V0797,2025-11-07 19:07:54.531602,Intersection_8,No Helmet,Bike,2
+V0798,2025-11-07 19:10:54.531602,Intersection_10,Wrong Lane,Car,3
+V0799,2025-11-09 20:10:54.531602,Intersection_4,Wrong Lane,Car,2
+V0800,2025-11-09 21:55:54.531602,Intersection_6,Wrong Lane,Bike,3
+V0801,2025-11-09 16:35:54.531602,Intersection_2,No Helmet,Bike,2
+V0802,2025-11-04 14:37:54.531602,Intersection_16,No Helmet,Bus,5
+V0803,2025-11-08 21:07:54.531602,Intersection_10,Wrong Lane,Car,2
+V0804,2025-11-08 11:59:54.531602,Intersection_15,Red Light,Car,4
+V0805,2025-11-05 17:26:54.531602,Intersection_1,No Helmet,Truck,1
+V0806,2025-11-05 15:57:54.531602,Intersection_7,No Helmet,Bus,3
+V0807,2025-11-07 12:08:54.531602,Intersection_9,Speeding,Bike,3
+V0808,2025-11-04 04:51:54.531602,Intersection_1,Red Light,Bus,2
+V0809,2025-11-07 10:00:54.531602,Intersection_3,No Helmet,Bike,5
+V0810,2025-11-09 15:11:54.531602,Intersection_3,Wrong Lane,Truck,2
+V0811,2025-11-08 12:07:54.531602,Intersection_20,Red Light,Bus,3
+V0812,2025-11-07 08:05:54.531602,Intersection_17,Speeding,Truck,3
+V0813,2025-11-05 08:31:54.531602,Intersection_2,No Helmet,Truck,1
+V0814,2025-11-05 03:04:54.531602,Intersection_16,Wrong Lane,Truck,4
+V0815,2025-11-06 10:22:54.531602,Intersection_20,Wrong Lane,Bus,1
+V0816,2025-11-10 00:58:54.531602,Intersection_12,Speeding,Bike,1
+V0817,2025-11-04 04:38:54.531602,Intersection_8,Speeding,Car,3
+V0818,2025-11-03 20:18:54.531602,Intersection_3,Wrong Lane,Bike,3
+V0819,2025-11-05 17:06:54.531602,Intersection_4,Wrong Lane,Truck,1
+V0820,2025-11-05 01:10:54.531602,Intersection_4,Speeding,Truck,2
+V0821,2025-11-05 07:50:54.531602,Intersection_17,Speeding,Car,1
+V0822,2025-11-07 21:32:54.531602,Intersection_10,Wrong Lane,Truck,3
+V0823,2025-11-04 15:13:54.531602,Intersection_13,Wrong Lane,Bus,1
+V0824,2025-11-08 13:04:54.531602,Intersection_13,No Helmet,Bike,5
+V0825,2025-11-04 19:04:54.531602,Intersection_17,No Helmet,Truck,5
+V0826,2025-11-07 11:40:54.531602,Intersection_3,No Helmet,Truck,4
+V0827,2025-11-08 12:56:54.531602,Intersection_1,Red Light,Car,2
+V0828,2025-11-06 14:52:54.531602,Intersection_15,No Helmet,Bike,5
+V0829,2025-11-04 20:41:54.531602,Intersection_6,Wrong Lane,Bike,5
+V0830,2025-11-07 02:48:54.531602,Intersection_17,No Helmet,Car,2
+V0831,2025-11-10 01:32:54.531602,Intersection_6,Wrong Lane,Car,2
+V0832,2025-11-08 19:50:54.531602,Intersection_11,Wrong Lane,Bus,3
+V0833,2025-11-07 16:08:54.531602,Intersection_10,Red Light,Bike,5
+V0834,2025-11-04 07:41:54.531602,Intersection_5,Wrong Lane,Bike,3
+V0835,2025-11-09 23:51:54.531602,Intersection_11,No Helmet,Bike,5
+V0836,2025-11-06 18:44:54.531602,Intersection_6,Speeding,Truck,5
+V0837,2025-11-08 17:51:54.531602,Intersection_17,No Helmet,Bike,4
+V0838,2025-11-09 10:24:54.531602,Intersection_15,Red Light,Truck,1
+V0839,2025-11-06 04:25:54.531602,Intersection_13,Red Light,Bus,1
+V0840,2025-11-05 14:12:54.531602,Intersection_10,Red Light,Car,5
+V0841,2025-11-07 02:09:54.531602,Intersection_7,Speeding,Bike,1
+V0842,2025-11-05 23:19:54.531602,Intersection_18,Red Light,Truck,5
+V0843,2025-11-03 23:49:54.531602,Intersection_16,No Helmet,Bike,2
+V0844,2025-11-10 13:30:54.531602,Intersection_6,No Helmet,Truck,3
+V0845,2025-11-04 03:02:54.531602,Intersection_8,No Helmet,Car,5
+V0846,2025-11-08 05:24:54.531602,Intersection_17,Speeding,Bike,5
+V0847,2025-11-04 17:51:54.531602,Intersection_6,No Helmet,Truck,4
+V0848,2025-11-08 21:17:54.531602,Intersection_10,Red Light,Bike,5
+V0849,2025-11-10 13:33:54.531602,Intersection_3,Red Light,Bus,2
+V0850,2025-11-09 18:33:54.531602,Intersection_18,Red Light,Bus,5
+V0851,2025-11-08 09:40:54.531602,Intersection_15,Red Light,Car,3
+V0852,2025-11-07 12:57:54.531602,Intersection_3,No Helmet,Bus,4
+V0853,2025-11-04 09:19:54.531602,Intersection_6,Speeding,Car,3
+V0854,2025-11-04 00:20:54.531602,Intersection_2,Speeding,Car,1
+V0855,2025-11-09 17:07:54.531602,Intersection_10,Speeding,Truck,4
+V0856,2025-11-08 05:44:54.531602,Intersection_7,Red Light,Car,3
+V0857,2025-11-06 08:09:54.531602,Intersection_10,Red Light,Truck,1
+V0858,2025-11-10 09:33:54.531602,Intersection_1,Red Light,Bus,5
+V0859,2025-11-06 13:21:54.531602,Intersection_6,Wrong Lane,Bus,4
+V0860,2025-11-06 05:50:54.531602,Intersection_5,No Helmet,Bus,2
+V0861,2025-11-07 01:09:54.531602,Intersection_4,Red Light,Truck,4
+V0862,2025-11-09 17:22:54.531602,Intersection_4,Wrong Lane,Truck,4
+V0863,2025-11-10 03:17:54.531602,Intersection_19,No Helmet,Car,1
+V0864,2025-11-07 10:42:54.531602,Intersection_5,Red Light,Bus,4
+V0865,2025-11-07 08:06:54.531602,Intersection_18,Wrong Lane,Car,1
+V0866,2025-11-05 07:04:54.531602,Intersection_5,Speeding,Car,3
+V0867,2025-11-06 22:29:54.531602,Intersection_16,Speeding,Car,3
+V0868,2025-11-09 05:05:54.531602,Intersection_19,No Helmet,Bike,3
+V0869,2025-11-04 09:10:54.531602,Intersection_3,No Helmet,Bike,1
+V0870,2025-11-06 17:09:54.531602,Intersection_20,Wrong Lane,Truck,1
+V0871,2025-11-04 14:33:54.531602,Intersection_7,Wrong Lane,Bike,4
+V0872,2025-11-05 10:26:54.531602,Intersection_18,No Helmet,Bike,5
+V0873,2025-11-06 18:39:54.531602,Intersection_9,Red Light,Bus,5
+V0874,2025-11-09 08:24:54.531602,Intersection_2,Red Light,Bike,4
+V0875,2025-11-09 13:41:54.531602,Intersection_18,Wrong Lane,Bike,5
+V0876,2025-11-08 19:05:54.531602,Intersection_7,Red Light,Bike,3
+V0877,2025-11-05 13:27:54.531602,Intersection_14,Wrong Lane,Bus,1
+V0878,2025-11-04 12:38:54.531602,Intersection_14,Speeding,Bike,1
+V0879,2025-11-04 15:48:54.531602,Intersection_11,Speeding,Bike,4
+V0880,2025-11-09 04:38:54.531602,Intersection_11,Wrong Lane,Truck,4
+V0881,2025-11-08 23:34:54.531602,Intersection_15,Wrong Lane,Bus,4
+V0882,2025-11-05 02:56:54.531602,Intersection_14,Wrong Lane,Truck,1
+V0883,2025-11-05 14:50:54.531602,Intersection_12,Wrong Lane,Bus,3
+V0884,2025-11-03 18:50:54.531602,Intersection_10,Speeding,Car,2
+V0885,2025-11-05 18:41:54.531602,Intersection_12,Speeding,Truck,1
+V0886,2025-11-10 02:10:54.531602,Intersection_12,Red Light,Truck,1
+V0887,2025-11-09 13:55:54.531602,Intersection_20,Wrong Lane,Truck,1
+V0888,2025-11-07 23:39:54.531602,Intersection_9,No Helmet,Car,4
+V0889,2025-11-04 03:42:54.531602,Intersection_20,Wrong Lane,Bus,1
+V0890,2025-11-10 08:06:54.531602,Intersection_20,Red Light,Bike,2
+V0891,2025-11-07 12:17:54.531602,Intersection_12,Red Light,Truck,3
+V0892,2025-11-06 14:54:54.531602,Intersection_13,Red Light,Bus,5
+V0893,2025-11-08 03:30:54.531602,Intersection_17,Wrong Lane,Truck,1
+V0894,2025-11-04 06:32:54.531602,Intersection_6,Speeding,Bus,2
+V0895,2025-11-10 11:41:54.531602,Intersection_9,No Helmet,Bus,5
+V0896,2025-11-09 16:36:54.531602,Intersection_7,Red Light,Car,2
+V0897,2025-11-06 18:19:54.531602,Intersection_16,Speeding,Bus,4
+V0898,2025-11-05 19:17:54.531602,Intersection_17,Wrong Lane,Bus,1
+V0899,2025-11-06 23:16:54.531602,Intersection_18,Speeding,Truck,5
+V0900,2025-11-04 03:49:54.531602,Intersection_19,Wrong Lane,Bus,5
+V0901,2025-11-10 13:13:54.531602,Intersection_12,Wrong Lane,Car,3
+V0902,2025-11-08 14:36:54.531602,Intersection_13,No Helmet,Bus,5
+V0903,2025-11-09 15:51:54.531602,Intersection_10,Wrong Lane,Truck,2
+V0904,2025-11-08 22:01:54.531602,Intersection_7,Red Light,Truck,1
+V0905,2025-11-09 17:07:54.531602,Intersection_19,Red Light,Car,5
+V0906,2025-11-09 07:59:54.531602,Intersection_20,Red Light,Bike,3
+V0907,2025-11-09 21:08:54.531602,Intersection_14,No Helmet,Bus,5
+V0908,2025-11-08 13:14:54.531602,Intersection_1,No Helmet,Truck,3
+V0909,2025-11-04 01:40:54.531602,Intersection_12,No Helmet,Bus,5
+V0910,2025-11-08 00:39:54.531602,Intersection_12,Red Light,Truck,4
+V0911,2025-11-04 00:21:54.531602,Intersection_12,Wrong Lane,Car,4
+V0912,2025-11-05 20:52:54.531602,Intersection_14,Speeding,Bike,2
+V0913,2025-11-03 23:19:54.531602,Intersection_7,No Helmet,Bike,3
+V0914,2025-11-10 07:29:54.531602,Intersection_10,Wrong Lane,Truck,3
+V0915,2025-11-09 08:11:54.531602,Intersection_7,No Helmet,Car,1
+V0916,2025-11-03 19:53:54.531602,Intersection_3,Red Light,Truck,3
+V0917,2025-11-05 19:10:54.531602,Intersection_14,Speeding,Car,5
+V0918,2025-11-08 22:04:54.531602,Intersection_13,Red Light,Car,3
+V0919,2025-11-08 09:20:54.531602,Intersection_13,Speeding,Bike,3
+V0920,2025-11-06 04:42:54.531602,Intersection_16,No Helmet,Bike,3
+V0921,2025-11-04 10:20:54.531602,Intersection_1,No Helmet,Bus,2
+V0922,2025-11-08 05:26:54.531602,Intersection_12,Wrong Lane,Car,1
+V0923,2025-11-04 19:45:54.531602,Intersection_19,Red Light,Truck,5
+V0924,2025-11-10 06:11:54.531602,Intersection_14,Red Light,Truck,2
+V0925,2025-11-08 11:46:54.531602,Intersection_9,Red Light,Truck,4
+V0926,2025-11-03 18:10:54.531602,Intersection_16,No Helmet,Car,4
+V0927,2025-11-09 13:40:54.531602,Intersection_8,Speeding,Bike,1
+V0928,2025-11-07 17:37:54.531602,Intersection_8,Red Light,Bike,5
+V0929,2025-11-04 08:12:54.531602,Intersection_20,Speeding,Bus,1
+V0930,2025-11-06 03:28:54.531602,Intersection_15,Speeding,Car,3
+V0931,2025-11-08 16:34:54.531602,Intersection_19,Red Light,Bus,5
+V0932,2025-11-09 10:17:54.531602,Intersection_8,Wrong Lane,Truck,3
+V0933,2025-11-07 13:08:54.531602,Intersection_15,Speeding,Truck,2
+V0934,2025-11-08 07:47:54.531602,Intersection_6,Red Light,Car,3
+V0935,2025-11-07 19:50:54.531602,Intersection_17,Red Light,Truck,5
+V0936,2025-11-04 21:58:54.531602,Intersection_9,No Helmet,Bike,3
+V0937,2025-11-10 07:04:54.531602,Intersection_20,No Helmet,Car,3
+V0938,2025-11-04 22:02:54.531602,Intersection_18,No Helmet,Bus,3
+V0939,2025-11-08 16:35:54.531602,Intersection_19,No Helmet,Car,2
+V0940,2025-11-05 02:02:54.531602,Intersection_12,Red Light,Truck,5
+V0941,2025-11-10 09:09:54.531602,Intersection_10,Red Light,Truck,5
+V0942,2025-11-09 08:59:54.531602,Intersection_1,No Helmet,Truck,2
+V0943,2025-11-07 23:56:54.531602,Intersection_9,Speeding,Bus,5
+V0944,2025-11-05 23:35:54.531602,Intersection_7,Red Light,Car,5
+V0945,2025-11-04 01:38:54.531602,Intersection_14,Wrong Lane,Bus,5
+V0946,2025-11-04 04:50:54.531602,Intersection_12,No Helmet,Truck,1
+V0947,2025-11-09 13:27:54.531602,Intersection_9,Wrong Lane,Bike,1
+V0948,2025-11-04 21:51:54.531602,Intersection_13,Wrong Lane,Car,5
+V0949,2025-11-08 00:10:54.531602,Intersection_1,Red Light,Bike,4
+V0950,2025-11-05 19:15:54.531602,Intersection_20,Wrong Lane,Car,3
+V0951,2025-11-10 06:06:54.531602,Intersection_17,Red Light,Car,2
+V0952,2025-11-09 06:49:54.531602,Intersection_14,Red Light,Truck,1
+V0953,2025-11-06 11:42:54.531602,Intersection_7,Red Light,Bike,2
+V0954,2025-11-05 15:51:54.531602,Intersection_6,Speeding,Car,2
+V0955,2025-11-09 14:07:54.531602,Intersection_11,Speeding,Bus,2
+V0956,2025-11-04 07:31:54.531602,Intersection_6,Speeding,Bike,5
+V0957,2025-11-06 02:07:54.531602,Intersection_14,Wrong Lane,Car,3
+V0958,2025-11-07 19:52:54.531602,Intersection_10,No Helmet,Truck,5
+V0959,2025-11-05 13:58:54.531602,Intersection_2,Speeding,Bike,1
+V0960,2025-11-06 23:56:54.531602,Intersection_1,Red Light,Car,4
+V0961,2025-11-08 06:04:54.531602,Intersection_2,Speeding,Bike,4
+V0962,2025-11-09 23:37:54.531602,Intersection_3,Speeding,Truck,2
+V0963,2025-11-10 06:13:54.531602,Intersection_3,No Helmet,Car,2
+V0964,2025-11-10 01:02:54.531602,Intersection_10,No Helmet,Bike,3
+V0965,2025-11-04 14:26:54.531602,Intersection_6,No Helmet,Car,4
+V0966,2025-11-09 13:06:54.531602,Intersection_17,Wrong Lane,Bus,3
+V0967,2025-11-08 18:14:54.531602,Intersection_17,No Helmet,Car,3
+V0968,2025-11-05 19:11:54.531602,Intersection_19,Wrong Lane,Car,4
+V0969,2025-11-08 06:55:54.531602,Intersection_16,Wrong Lane,Bus,5
+V0970,2025-11-09 19:55:54.531602,Intersection_4,Wrong Lane,Car,4
+V0971,2025-11-05 17:40:54.531602,Intersection_11,Red Light,Car,5
+V0972,2025-11-04 02:58:54.531602,Intersection_16,No Helmet,Truck,3
+V0973,2025-11-06 21:13:54.531602,Intersection_10,No Helmet,Car,1
+V0974,2025-11-07 17:10:54.531602,Intersection_13,Red Light,Car,2
+V0975,2025-11-08 22:18:54.531602,Intersection_19,Red Light,Bike,1
+V0976,2025-11-10 04:48:54.531602,Intersection_16,Red Light,Bike,3
+V0977,2025-11-08 15:14:54.531602,Intersection_16,Wrong Lane,Bus,2
+V0978,2025-11-06 02:13:54.531602,Intersection_6,No Helmet,Truck,3
+V0979,2025-11-06 17:37:54.531602,Intersection_11,Speeding,Truck,1
+V0980,2025-11-05 01:40:54.531602,Intersection_12,No Helmet,Bike,1
+V0981,2025-11-05 23:55:54.531602,Intersection_9,Red Light,Car,1
+V0982,2025-11-06 20:18:54.531602,Intersection_5,Wrong Lane,Bike,3
+V0983,2025-11-09 15:31:54.531602,Intersection_16,Speeding,Bus,3
+V0984,2025-11-07 23:05:54.531602,Intersection_5,Speeding,Truck,2
+V0985,2025-11-07 23:56:54.531602,Intersection_15,Wrong Lane,Truck,5
+V0986,2025-11-04 11:21:54.531602,Intersection_3,No Helmet,Car,2
+V0987,2025-11-04 21:29:54.531602,Intersection_10,Red Light,Truck,4
+V0988,2025-11-09 13:08:54.531602,Intersection_19,Speeding,Bike,3
+V0989,2025-11-10 00:48:54.531602,Intersection_13,Speeding,Bike,3
+V0990,2025-11-04 13:33:54.531602,Intersection_4,Red Light,Bus,3
+V0991,2025-11-04 12:19:54.531602,Intersection_3,No Helmet,Truck,3
+V0992,2025-11-04 17:18:54.531602,Intersection_8,Red Light,Bike,3
+V0993,2025-11-05 12:12:54.531602,Intersection_14,No Helmet,Truck,1
+V0994,2025-11-05 13:37:54.531602,Intersection_8,No Helmet,Truck,5
+V0995,2025-11-04 10:36:54.531602,Intersection_14,Red Light,Bike,5
+V0996,2025-11-06 11:01:54.531602,Intersection_20,Red Light,Car,1
+V0997,2025-11-07 12:45:54.531602,Intersection_9,No Helmet,Bus,2
+V0998,2025-11-06 03:18:54.531602,Intersection_19,Wrong Lane,Car,4
+V0999,2025-11-03 23:29:54.531602,Intersection_6,Speeding,Bike,2
+V1000,2025-11-06 18:57:54.531602,Intersection_17,Wrong Lane,Bus,4
