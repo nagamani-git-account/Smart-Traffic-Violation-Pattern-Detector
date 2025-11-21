@@ -1,14 +1,33 @@
 from pyspark.sql import SparkSession
 from pyspark.sql import functions as F
+import pandas as pd
 
 # ---------- Spark ----------
 spark = SparkSession.builder.appName("Milestone2").getOrCreate()
 spark.sparkContext.setLogLevel("ERROR")
 
 # ---------- Read cleaned data ----------
-df = spark.read.parquet("cleaned_traffic_data.parquet")
-df.show(5, truncate=False)
+# read the simulated cleaned parquet
+df_sim = spark.read.parquet("cleaned_traffic_data.parquet")
 
+# read YOLO parquet if it exists, else create empty df with same schema
+import os
+if os.path.exists("detected_violations.parquet"):
+    df_yolo = spark.read.parquet("detected_violations.parquet")
+else:
+    # create empty DF with same schema as df_sim
+    df_yolo = spark.createDataFrame([], schema=df_sim.schema)
+
+# Ensure both have same columns & types: cast timestamp to timestamp type
+df_sim = df_sim.withColumn("Timestamp", F.to_timestamp("Timestamp"))
+df_yolo = df_yolo.withColumn("Timestamp", F.to_timestamp("Timestamp"))
+
+# union safely by name
+df = df_sim.unionByName(df_yolo.select(df_sim.columns))
+
+# now derive time features and continue the rest of your aggregations...
+df.show(5, truncate=False)
+ 
 # ---------- Derive time features ----------
 df = (
     df.withColumn("Hour", F.hour("Timestamp"))

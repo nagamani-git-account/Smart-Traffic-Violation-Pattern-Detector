@@ -1,23 +1,22 @@
 from pyspark.sql import SparkSession
 from pyspark.sql import functions as F
 
-# --------------------------
+
 # Spark Session
-# --------------------------
+
 spark = SparkSession.builder.appName("Milestone3").getOrCreate()
 spark.sparkContext.setLogLevel("ERROR")
 
-# --------------------------
+
 # Load cleaned data (from Milestone 1)
-# --------------------------
+
 df = spark.read.parquet("cleaned_traffic_data.parquet")
 
 # Ensure Timestamp exists
 df = df.filter(F.col("Timestamp").isNotNull())
 
-# --------------------------
-# Week 5 — Advanced Time Analysis
-# --------------------------
+
+# --- Advanced Time Analysis----
 
 # 1) 3-hour windows (0–3, 3–6, ... 21–24)
 df = df.withColumn(
@@ -54,9 +53,8 @@ type_vs_window = (
       .orderBy("Violation_Type", "Hour_Window")
 )
 
-# --------------------------
-# Week 6 — Hotspot Identification
-# --------------------------
+
+#  ----Hotspot Identification----
 
 # 1) Find locations with unusually high violation counts
 total_violations = df.count()
@@ -74,18 +72,18 @@ hotspots = violations_by_location.filter(
     F.col("Total_Violations") > avg_per_location
 )
 
-# --------------------------
+
 # Save Results (Parquet)
-# --------------------------
+
 violations_by_window.write.mode("overwrite").parquet("out3/violations_by_3hr_window")
 violations_by_daytype.write.mode("overwrite").parquet("out3/violations_by_daytype")
 type_vs_window.write.mode("overwrite").parquet("out3/type_vs_timewindow")
 violations_by_location.write.mode("overwrite").parquet("out3/violations_by_location")
 hotspots.write.mode("overwrite").parquet("out3/hotspots")
 
-# --------------------------
+
 # Quick Sample Output
-# --------------------------
+
 print("=== 3-Hour Window Violations ===")
 violations_by_window.show()
 
